@@ -1,0 +1,89 @@
+Id,Player_Name,Team,Credit_Point,Role,Speciality
+1,Yashasvi Jaiswal,RR,9,BAT,
+2,Shivam Dube,CSK,8,BAT,
+3,Vaibhav Suryavanshi,RR,7.5,BAT,
+4,Ayush Mhatre,CSK,7,BAT,
+5,Shimron Hetmyer,CSK,7,BAT,
+6,Dewald Brevis,CSK,6.5,BAT,
+7,MS Dhoni,CSK,7,WK,
+8,Sanju Samson,RR,8.5,WK,
+9,Dhruv Jurel,RR,8,WK,
+10,Devon Conway,CSK,6.5,WK,
+11,Urvil Patel,CSK,5,WK,
+12,Ravindra Jadeja,CSK,8.5,AR,slow left arm orthdox
+13,Riyan Parag,RR,8.5,AR,off break
+14,Wanindu Hasaranga,RR,7.5,AR,leg break
+15,Ravichandran Ashwin,CSK,6.5,AR,off break
+16,Sam Curran,CSK,7,AR,left arm medium fast
+17,Shubham Dubey,RR,6,BAT
+18,Noor Ahmad,CSK,8.5,BOWL,left arm wrist spin
+19,Khaleel Ahmed,CSK,8,BOWL,left arm fast medium
+20,Matheesha Pathirana,CSK,8,BOWL,right arm fast
+21,Maheesh Theekshana,RR,7,BOWL,off break
+22,Tushar Deshpande,RR,7,BOWL,right arm medium
+23,Anshul Kamboj,CSK,6.5,BOWL,right arm medium
+24,Fazalhaq Farooqi,RR,6.5,BOWL,left arm fast medium
+25,Akash Madhwal,RR,6,BOWL,right arm fast medium
+26,Kwena Maphaka,RR,5.5,BOWL,left arm fast
+27,Ryan Rickelton,MI,8.5,WK,
+28,K L Rahul,DC,9.0,WK,
+29,Abishek Porel,DC,7.5,WK,
+30,Surya Kumar Yadav,MI,9,BAT,
+31,Rohit Sharma,MI,8.5,BAT,
+32,N Tilak Varma,MI,8.0,BAT,
+33,Tristan Stubbs,DC,8.0,BAT,
+34,Faf Du Plessis,DC,7.5,BAT,
+35,Ashutosh Sharma,DC,7,BAT,
+36,Naman Dhir,MI,7,BAT,
+37,Hardik Pandya,MI,9,AR,Right-arm medium fast
+38,Axar Patel,DC,8.5,AR,Slow left-arm orthodox
+39,Will Jacks,MI,8,AR,Off break
+40,Vipraj Nigam,DC,7.5,AR,Leg break
+41,Corbin Bosch,MI,6.5,AR,Right-arm fast medium
+42,Jasprit Bumrah,MI,9.0,BOWL,Right-arm fast
+43,Kuldeep Yadav,DC,8.5,BOWL,Left-arm wrist spin
+44,Trent Boult,MI,8.5,BOWL,Left-arm fast medium
+45,Deepak Chahar,MI,7.5,BOWL,Right-arm medium
+46,Mukesh Kumar,DC,7.5,BOWL,Right-arm medium
+47,Karn Sharma,MI,7,BOWL,Leg break googly
+48,Mustafizur Rahman,DC,7,BOWL,Left-arm fast medium
+49,Ashwani Kumar,MI,6.5,BOWL,Left-arm medium
+50,Dushmantha Chameera,DC,6.5,BOWL,Right-arm fast
+51,T Natarajan,DC,6.5,BOWL,Left-arm medium
+52,Sameer Rizvi,DC,6,BAT,
+53,Jos Buttler,GT,9,WK,
+54,Nicholas Pooran,LSG,9,WK,
+55,Kusal Mendis,GT,7,Wk,
+56,Rishabh Pant,LSG,6.5,WK,
+57,Mithcell Marsh,LSG,9,BAT,Right-arm medium
+58,Mithcell Santner,MI,7,BAT,
+59,Sai Sudharsan,GT,9,BAT,Leg break
+60,Shubman Gill,GT,9,BAT,Off break
+61,Ayush Badoni,LSG,8,BAT,Off break
+62,Sherfane Rutherford,GT,7.5,BAT,Right-arm fast medium
+63,David Miller,LSG,7,BAT,Off break
+64,Abdul Samad,LSG,6.5,BAT,Leg break
+65,Shahrukh Khan,GT,6.5,BAT,Off break
+66,Himmat Singh,LSG,5.6,BAT,Off break
+67,Aiden Markrma,LSG,9,AR,Off break
+68,Washington Sundar,GT,7,AR,Off break
+69,Arshad Khan,GT,6.5,AR,Left-arm medium
+70,Shahbaz Ahmed,LSG,6.5,AR,Left-arm orthodox
+71,Karim Janat,GT,6,AR,Right-arm medium
+72,Rahul Tewatia,GT,6,AR,Leg Break
+73,Prasidh Krishna,GT,9,BOWL,Right-arm fast medium
+74,Mohammed Siraj,GT,8.5,BOWL,Right-arm fast
+75,Rashid Khan,GT,8,BOWL,Leg Break Googly
+76,Avesh Khan,LSG,7.5,BOWL,Right-arm fast medium
+77,Kagiso Rabada,GT,7.5,BOWL,Right-arm fast
+78,Ravi Bisnoi,LSG,7.5,BOWL,Leg break googly
+79,Ravisrinivasan Sai Kishore,GT,7.5,BOWL,Slow left-arm orthodox
+80,Shradul Thakur,LSG,7.5,BOWL,Right-arm medium fast
+81,Ishant Sharma,GT,7,BOWL,Right-arm fast medium
+82,William O'Rourke,LSG,7,BOWL,Right-arm fast
+83,Akash Deep,LSG,6.5,BOWL,Right-arm fast medium
+84,Gerald Coetzee,GT,6.5,BOWL,Right-arm fast
+85,Kulwant Khejroliya,GT,6,BOWL,Left-arm medium fast
+86,Manimaran Siddharth,LSG,6,BOWL,Slow left-arm orthodox
+87,Prince Yadav,LSG,6,BOWL,Right-arm fast
+88,Akash Singh,LSG,5.6,BOWL,Left-arm medium fast

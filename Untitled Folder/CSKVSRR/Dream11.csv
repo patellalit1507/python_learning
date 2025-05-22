@@ -1,0 +1,30 @@
+Event,Category,Points
+Run,Batting,+1
+Boundary Bonus (4s),Batting,+1
+Six Bonus (6s),Batting,+2
+30 Run Bonus,Batting,+4
+50 Run Bonus,Batting,+8
+100 Run Bonus,Batting,+16
+Dismissal for a Duck (Top 7 only),Batting,-2
+Strike Rate 60-70 (10–19 balls),Batting,+4
+Strike Rate 60-70 (20–29 balls),Batting,+2
+Strike Rate <50 (Min 10 balls),Batting,-6
+Wicket (excluding run-out),Bowling,+25
+Bonus for LBW/Bowled,Bowling,+8
+3 Wicket Haul,Bowling,+4
+4 Wicket Haul,Bowling,+8
+5 Wicket Haul,Bowling,+16
+Maiden Over (T20 only),Bowling,+12
+Economy Rate 6–5 RPO,Bowling,+4
+Economy Rate 5–4 RPO,Bowling,+8
+Economy Rate <4 RPO,Bowling,+12
+Economy Rate 10–11 RPO,Bowling,-2
+Economy Rate 11.01–12.99 RPO,Bowling,-4
+Economy Rate ≥13 RPO,Bowling,-6
+Catch,Fielding,+8
+3+ Catches Bonus,Fielding,+4
+Stumping,Fielding,+12
+Run-out (direct hit),Fielding,+12
+Run-out (assist),Fielding,+6
+Captain,Role,×2
+Vice-Captain,Role,×1.5

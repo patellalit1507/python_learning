@@ -1,0 +1,7 @@
+employee_id,name,department,salary,join_date,is_active
+101,Alice Brown,IT,85000,2019-06-10,true
+102,Bob Smith,HR,65000,2020-01-15,true
+103,Charlie Lee,Finance,72000,2018-11-01,false
+104,Diana Green,IT,92000,2021-09-05,true
+105,Evan White,Marketing,60000,2022-03-19,true
+106,Fiona Black,HR,68000,2020-07-23,false
