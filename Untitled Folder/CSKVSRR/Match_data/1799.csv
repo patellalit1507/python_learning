@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000017-5e389774e99c11,8,,,,0,0,0,,,0,0,,,-,0,0,Krunal Pandya,4.0,29.0,3.0,7.25,4.0,24.0,17.0,8.0,33.33,3.00,2.0,1.0,48.28,8.00,8.00,27.59,20.69,1799,2,19,Krunal Pandya 
+2018-100mb00000000036-2af54408f88a11,1,,,,0,0,0,,,0,0,,,-,0,0,Josh Hazlewood,4.0,22.0,2.0,5.5,1.0,24.0,8.0,16.0,66.67,1.50,3.0,1.0,81.82,6.00,12.00,54.55,27.27,1799,2,19,Josh Hazlewood 
+2018-100mb00000000044-e03a43dbf88a11,1,Krunal Pandya,c Rasikh Dar b Krunal Pandya,c Rasikh Dar b Krunal Pandya,56,31,14,45.16,2.21,6,4,85.71,3.10,180.65,16,15,,,,,,,,,,,,,,,,,,,1799,1,16,Ajinkya Rahane (c)
+2018-wicb00000000002-47ea5a6ae99a11,3,,not out,not out,59,36,6,16.67,6.00,4,3,57.63,5.14,163.89,16,20,,,,,,,,,,,,,,,,,,,1799,2,19,Virat Kohli 
+2019-100mb00000000140-a41b85f2449d11,11,,,,0,0,0,,,0,0,,,-,0,0,Varun Chakaravarthy,4.0,43.0,1.0,10.75,3.0,24.0,17.0,7.0,29.17,3.43,5.0,2.0,74.42,3.43,24.00,46.51,27.91,1799,1,16,Varun Chakaravarthy 
+2019-100mb00000000141-e67c41d144a711,7,Suyash Sharma,b Suyash Sharma,b Suyash Sharma,4,3,2,66.67,1.50,1,0,100.00,3.00,133.33,0,3,,,,,,,,,,,,,,,,,,,1799,1,16,Andre Russell 
+2019-100mb00000000152-335aed3d44aa11,4,Krunal Pandya,b Krunal Pandya,b Krunal Pandya,12,10,2,20.00,5.00,1,0,33.33,10.00,120.00,0,10,,,,,,,,,,,,,,,,,,,1799,1,16,Rinku Singh 
+2019-100mb00000000156-a6b6f42c44aa11,6,Rasikh Dar,c Jitesh Sharma b Rasikh Dar,c Jitesh Sharma b Rasikh Dar,44,26,13,50.00,2.00,5,3,86.36,3.25,169.23,21,5,Sunil Narine,4.0,27.0,1.0,6.75,5.0,24.0,19.0,5.0,20.83,4.80,1.0,1.0,37.04,12.00,24.00,14.81,22.22,1799,1,16,Sunil Narine 
+2019-100mb00000000170-9429250944ae11,2,Josh Hazlewood,c Jitesh Sharma b Josh Hazlewood,c Jitesh Sharma b Josh Hazlewood,4,5,4,80.00,1.25,1,0,100.00,5.00,80.00,5,0,,,,,,,,,,,,,,,,,,,1799,1,16,Quinton De Kock (wk)
+2019-100mb00000000172-1befbbeb44af11,9,,,,0,0,0,,,0,0,,,-,0,0,Rasikh Dar,3.0,35.0,1.0,11.67,3.0,18.0,11.0,9.0,50.00,2.00,3.0,3.0,85.71,3.00,18.00,34.29,51.43,1799,2,19,Rasikh Dar 
+2019-100mb00000000183-f4a991db44b611,5,,not out,not out,15,5,1,20.00,5.00,2,1,93.33,1.67,300.00,5,0,Liam Livingstone,2.0,14.0,0.0,7.0,6.0,12.0,10.0,2.0,16.67,6.00,1.0,0.0,28.57,12.00,0,28.57,0.00,1799,2,19,Liam Livingstone 
+2019-100mb00000000200-1283ad3244ba11,10,Sunil Narine,c Ramandeep Singh b Sunil Narine,c Ramandeep Singh b Sunil Narine,10,10,3,30.00,3.33,1,0,40.00,10.00,100.00,0,10,,,,,,,,,,,,,,,,,,,1799,2,19,Devdutt Padikkal  (IP)
+2021-100mb00000000583-8f4c0c4491dd11,5,,,,0,0,0,,,0,0,,,-,0,0,Vaibhav Arora,3.0,42.0,1.0,14.0,1.0,18.0,15.0,4.0,22.22,4.50,7.0,1.0,80.95,2.25,18.00,66.67,14.29,1799,1,16,Vaibhav Arora  (IP)
+2021-100mb00000000584-a3f48c1791dd11,3,Krunal Pandya,b Krunal Pandya,b Krunal Pandya,6,7,4,57.14,1.75,1,0,66.67,7.00,85.71,0,7,,,,,,,,,,,,,,,,,,,1799,1,16,Venkatesh Iyer 
+2021-100mb00000000597-a0edfee691e511,2,Vaibhav Arora,c Rinku Singh b Vaibhav Arora,c Rinku Singh b Vaibhav Arora,34,16,4,25.00,4.00,5,1,76.47,2.67,212.50,11,5,,,,,,,,,,,,,,,,,,,1799,2,19,Rajat Patidar (c)
+2021-100mb00000000636-9e985b64160411,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1799,2,19,Tim David 
+20214a2b63d55d7711ec9c9202ea608,11,Yash Dayal,c Jitesh Sharma b Yash Dayal,c Jitesh Sharma b Yash Dayal,30,22,4,18.18,5.50,2,1,46.67,7.33,136.36,7,15,,,,,,,,,,,,,,,,,,,1799,1,16,Angkrish Raghuvanshi  (RP)
+2022-100mb00000000978-bc824605a44611,11,,,,0,0,0,,,0,0,,,-,0,0,Yash Dayal,3.0,25.0,1.0,8.33,2.0,18.0,11.0,7.0,38.89,2.57,3.0,1.0,72.00,4.50,18.00,48.00,24.00,1799,2,19,Yash Dayal 
+2022-100mb00000000991-d9fbad51a44b11,8,,not out,not out,6,9,3,33.33,3.00,0,0,0.00,,66.67,4,5,,,,,,,,,,,,,,,,,,,1799,1,16,Ramandeep Singh 
+2022-100mb00000001000-d90666b7a44d11,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1799,2,19,Jitesh Sharma (wk)
+2022-100mb00000001013-30676520bcc011,10,Josh Hazlewood,c Jitesh Sharma b Josh Hazlewood,c Jitesh Sharma b Josh Hazlewood,5,6,4,66.67,1.50,1,0,80.00,6.00,83.33,6,0,Harshit Rana,3.0,32.0,0.0,10.67,4.0,18.0,14.0,4.0,22.22,4.50,5.0,0.0,62.50,3.60,0,62.50,0.00,1799,1,16,Harshit Rana 
+2022-100mb00000001220-372333e3f9f711,4,Varun Chakaravarthy,c Spencer Johnson b Varun Chakaravarthy,c Spencer Johnson b Varun Chakaravarthy,56,31,13,41.94,2.38,9,2,85.71,2.82,180.65,18,13,,,,,,,,,,,,,,,,,,,1799,2,19,Phil Salt 
+2023-100mb00000001932-5539f1d7c3fd11,11,,,,0,0,0,,,0,0,,,-,0,0,Suyash Sharma,4.0,47.0,1.0,11.75,5.0,24.0,17.0,8.0,33.33,3.00,6.0,2.0,76.60,3.00,24.00,51.06,25.53,1799,2,19,Suyash Sharma  (RP)
+2023-100mb00000002518-9a5f0c5357b311,9,,not out,not out,1,1,0,0.00,,0,0,0.00,,100.00,1,0,Spencer Johnson,2.2,31.0,0.0,13.29,2.0,14.0,7.0,7.0,50.00,2.00,3.0,3.0,96.77,2.33,0,38.71,58.06,1799,1,16,Spencer Johnson 

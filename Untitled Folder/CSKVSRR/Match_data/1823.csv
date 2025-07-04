@@ -1,0 +1,24 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000008-787fc4ece99b11,11,,,,0,0,0,,,0,0,,,-,0,0,Khaleel Ahmed,3.0,40.0,0.0,13.33,1.0,18.0,12.0,8.0,44.44,2.25,1.0,5.0,85.00,3.00,0,10.00,75.00,1823,1,13,Khaleel Ahmed 
+2018-100mb00000000044-e03a43dbf88a11,1,,not out,not out,20,17,7,41.18,2.43,1,1,50.00,8.50,117.65,8,9,,,,,,,,,,,,,,,,,,,1823,2,16,Ajinkya Rahane (c)
+2018-100mb00000000045-f658f1b6f88a11,8,Harshit Rana,c Vaibhav Arora b Harshit Rana,c Vaibhav Arora b Harshit Rana,1,7,6,85.71,1.17,0,0,0.00,,14.29,4,3,Ravichandran Ashwin,3.0,30.0,0.0,10.0,3.0,18.0,11.0,7.0,38.89,2.57,1.0,3.0,73.33,4.50,0,13.33,60.00,1823,1,13,Ravichandran Ashwin 
+2018-100mb00000000046-06b5ba89f88b11,7,Sunil Narine,c Quinton De Kock b Sunil Narine,c Quinton De Kock b Sunil Narine,0,2,2,100.00,1.00,0,0,,,0.00,1,1,Ravindra Jadeja,0.1,9.0,0.0,54.0,5.0,1.0,2.0,0.0,0.00,0,0.0,1.0,66.67,1.00,0,0.00,66.67,1823,1,13,Ravindra Jadeja 
+2019-100mb00000000057-57100cf415ba11,1,Sunil Narine,lbw Sunil Narine,lbw Sunil Narine,1,4,3,75.00,1.33,0,0,0.00,,25.00,0,4,,,,,,,,,,,,,,,,,,,1823,1,13,MS Dhoni (c)(wk)
+2019-100mb00000000061-6d68257c17f311,5,Varun Chakaravarthy,c Moeen Ali b Varun Chakaravarthy,c Moeen Ali b Varun Chakaravarthy,29,21,8,38.10,2.63,2,1,48.28,7.00,138.10,8,13,,,,,,,,,,,,,,,,,,,1823,1,13,Vijay Shankar 
+2019-100mb00000000140-a41b85f2449d11,11,,,,0,0,0,,,0,0,,,-,0,0,Varun Chakaravarthy,4.0,22.0,2.0,5.5,4.0,24.0,13.0,11.0,45.83,2.18,2.0,0.0,36.36,12.00,12.00,36.36,0.00,1823,2,16,Varun Chakaravarthy 
+2019-100mb00000000141-e67c41d144a711,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1823,2,16,Andre Russell 
+2019-100mb00000000152-335aed3d44aa11,4,,not out,not out,15,12,6,50.00,2.00,1,1,66.67,6.00,125.00,0,11,,,,,,,,,,,,,,,,,,,1823,2,16,Rinku Singh 
+2019-100mb00000000156-a6b6f42c44aa11,5,Noor Ahmad,b Noor Ahmad,b Noor Ahmad,44,18,6,33.33,3.00,2,5,86.36,2.57,244.44,8,10,Sunil Narine,4.0,13.0,3.0,3.25,5.0,24.0,12.0,12.0,50.00,2.00,0.0,0.0,0.00,0,8.00,0.00,0.00,1823,2,16,Sunil Narine 
+2019-100mb00000000170-9429250944ae11,2,Anshul Kamboj,b Anshul Kamboj,b Anshul Kamboj,23,16,8,50.00,2.00,0,3,78.26,5.33,143.75,14,1,,,,,,,,,,,,,,,,,,,1823,2,16,Quinton De Kock (wk)
+2019-100mb00000000188-896b509b44b711,11,Sunil Narine,b Sunil Narine,b Sunil Narine,16,22,11,50.00,2.00,1,0,25.00,22.00,72.73,3,19,,,,,,,,,,,,,,,,,,,1823,1,13,Rahul Tripathi  (RP)
+2019-100mb00000000206-501d92f644bb11,9,,,,0,0,0,,,0,0,,,-,0,0,Moeen Ali,4.0,20.0,1.0,5.0,2.0,24.0,14.0,11.0,45.83,2.18,0.0,1.0,30.00,24.00,24.00,0.00,30.00,1823,2,16,Moeen Ali 
+2019-100mb00000000211-dc1f6a2544bb11,6,,not out,not out,31,29,9,31.03,3.22,3,0,38.71,9.67,106.90,15,14,,,,,,,,,,,,,,,,,,,1823,1,13,Shivam Dube 
+2019-100mb00000000215-f86e728844bc11,4,Varun Chakaravarthy,c Vaibhav Arora b Varun Chakaravarthy,c Vaibhav Arora b Varun Chakaravarthy,0,4,4,100.00,1.00,0,0,,,0.00,0,4,,,,,,,,,,,,,,,,,,,1823,1,13,Deepak Hooda  (IP)
+2021-100mb00000000583-8f4c0c4491dd11,8,,,,0,0,0,,,0,0,,,-,0,0,Vaibhav Arora,4.0,31.0,1.0,7.75,1.0,24.0,16.0,10.0,41.67,2.40,4.0,0.0,51.61,6.00,24.00,51.61,0.00,1823,2,16,Vaibhav Arora 
+2021-100mb00000000584-a3f48c1791dd11,3,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1823,2,16,Venkatesh Iyer 
+2021-100mb00000000601-517399b0ceaf11,3,Moeen Ali,lbw Moeen Ali,lbw Moeen Ali,12,11,5,45.45,2.20,2,0,66.67,5.50,109.09,7,4,,,,,,,,,,,,,,,,,,,1823,1,13,Devon Conway 
+2021-100mb00000000724-7645abdd460011,2,Harshit Rana,c Ajinkya Rahane b Harshit Rana,c Ajinkya Rahane b Harshit Rana,4,9,5,55.56,1.80,0,0,0.00,,44.44,6,3,,,,,,,,,,,,,,,,,,,1823,1,13,Rachin Ravindra 
+2022-100mb00000000975-56f6385ba44611,9,Vaibhav Arora,c Varun Chakaravarthy b Vaibhav Arora,c Varun Chakaravarthy b Vaibhav Arora,1,8,7,87.50,1.14,0,0,0.00,,12.50,1,7,Noor Ahmad,2.0,8.0,1.0,4.0,4.0,12.0,5.0,7.0,58.33,1.71,1.0,0.0,50.00,12.00,12.00,50.00,0.00,1823,1,13,Noor Ahmad 
+2022-100mb00000000991-d9fbad51a44b11,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1823,2,16,Ramandeep Singh 
+2022-100mb00000001013-30676520bcc011,10,,,,0,0,0,,,0,0,,,-,0,0,Harshit Rana,4.0,16.0,2.0,4.0,3.0,24.0,8.0,17.0,70.83,1.41,2.0,0.0,50.00,12.00,12.00,50.00,0.00,1823,2,16,Harshit Rana 
+2024-100mb00000003106-047b3989df9b11,10,,not out,not out,3,3,1,33.33,3.00,0,0,0.00,,100.00,3,0,Anshul Kamboj,2.0,19.0,1.0,9.5,2.0,12.0,9.0,4.0,33.33,3.00,1.0,1.0,52.63,6.00,12.00,21.05,31.58,1823,1,13,Anshul Kamboj 

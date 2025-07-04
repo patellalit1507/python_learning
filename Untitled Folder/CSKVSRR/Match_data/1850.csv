@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000008-787fc4ece99b11,9,,,,0,0,0,,,0,0,,,-,0,0,Khaleel Ahmed,3.0,65.0,0.0,21.67,1.0,18.0,14.0,5.0,27.78,3.60,5.0,7.0,95.38,1.50,0,30.77,64.62,1850,2,13,Khaleel Ahmed 
+2018-100mb00000000015-3501d442e99c11,9,,,,0,0,0,,,0,0,,,-,0,0,Bhuvneshwar Kumar,4.0,55.0,0.0,13.75,2.0,24.0,19.0,5.0,20.83,4.80,7.0,3.0,83.64,2.40,0,50.91,32.73,1850,1,19,Bhuvneshwar Kumar 
+2018-100mb00000000017-5e389774e99c11,8,,,,0,0,0,,,0,0,,,-,0,0,Krunal Pandya,3.0,24.0,1.0,8.0,1.0,18.0,13.0,5.0,27.78,3.60,2.0,1.0,58.33,6.00,18.00,33.33,25.00,1850,1,19,Krunal Pandya 
+2018-100mb00000000046-06b5ba89f88b11,5,,not out,not out,77,45,6,13.33,7.50,8,2,57.14,4.50,171.11,29,16,Ravindra Jadeja,3.0,26.0,0.0,8.67,4.0,18.0,12.0,7.0,38.89,2.57,3.0,1.0,69.23,4.50,0,46.15,23.08,1850,2,13,Ravindra Jadeja 
+2018-wicb00000000002-47ea5a6ae99a11,3,Sam Curran,c Khaleel Ahmed b Sam Curran,c Khaleel Ahmed b Sam Curran,62,33,11,33.33,3.00,5,5,80.65,3.30,187.88,21,12,,,,,,,,,,,,,,,,,,,1850,1,19,Virat Kohli 
+2019-100mb00000000057-57100cf415ba11,1,Yash Dayal,lbw Yash Dayal,lbw Yash Dayal,12,8,1,12.50,8.00,0,1,50.00,8.00,150.00,6,2,,,,,,,,,,,,,,,,,,,1850,2,13,MS Dhoni (c)(wk)
+2019-100mb00000000099-b2d4548e43f611,10,,,,0,0,0,,,0,0,,,-,0,0,Lungisani Ngidi,4.0,30.0,3.0,7.5,4.0,24.0,15.0,9.0,37.50,2.67,3.0,1.0,60.00,6.00,8.00,40.00,20.00,1850,1,19,Lungisani Ngidi 
+2019-100mb00000000138-5bd8fcf6449d11,4,Lungisani Ngidi,c Jitesh Sharma b Lungisani Ngidi,c Jitesh Sharma b Lungisani Ngidi,5,5,3,60.00,1.67,1,0,80.00,5.00,100.00,3,2,Sam Curran,3.0,34.0,1.0,11.33,5.0,18.0,15.0,3.0,16.67,6.00,3.0,2.0,70.59,3.60,18.00,35.29,35.29,1850,2,13,Sam Curran 
+2019-100mb00000000200-1283ad3244ba11,11,Matheesha Pathirana,c Ravindra Jadeja b Matheesha Pathirana,c Ravindra Jadeja b Matheesha Pathirana,17,15,6,40.00,2.50,1,1,58.82,7.50,113.33,9,6,,,,,,,,,,,,,,,,,,,1850,1,19,Devdutt Padikkal  (RP)
+2019-100mb00000000211-dc1f6a2544bb11,11,,not out,not out,8,3,0,0.00,,0,1,75.00,3.00,266.67,2,0,,,,,,,,,,,,,,,,,,,1850,2,13,Shivam Dube  (IP)
+2019-100mb00000000215-f86e728844bc11,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1850,2,13,Deepak Hooda 
+2019-100mb00000000371-481ee0be14fc11,5,,not out,not out,53,14,3,21.43,4.67,4,6,98.11,1.40,378.57,13,0,Romario Shepherd,1.0,18.0,0.0,18.0,6.0,6.0,5.0,1.0,16.67,6.00,1.0,2.0,88.89,2.00,0,22.22,66.67,1850,1,19,Romario Shepherd 
+2021-100mb00000000597-a0edfee691e511,1,Matheesha Pathirana,c Sam Curran b Matheesha Pathirana,c Sam Curran b Matheesha Pathirana,11,15,7,46.67,2.14,1,0,36.36,15.00,73.33,6,9,,,,,,,,,,,,,,,,,,,1850,1,19,Rajat Patidar (c)
+2021-100mb00000000636-9e985b64160411,7,,not out,not out,2,3,1,33.33,3.00,0,0,0.00,,66.67,2,1,,,,,,,,,,,,,,,,,,,1850,1,19,Tim David 
+20212e70112c5d7811ec9c9202ea608,2,Krunal Pandya,c Romario Shepherd b Krunal Pandya,c Romario Shepherd b Krunal Pandya,14,11,5,45.45,2.20,1,1,71.43,5.50,127.27,8,3,,,,,,,,,,,,,,,,,,,1850,2,13,Shaik Rasheed 
+2022-100mb00000000869-837ca3e5840c11,2,Matheesha Pathirana,c Dewald Brevis b Matheesha Pathirana,c Dewald Brevis b Matheesha Pathirana,55,33,12,36.36,2.75,8,2,80.00,3.30,166.67,23,10,,,,,,,,,,,,,,,,,,,1850,1,19,Jacob Bethell 
+2022-100mb00000000975-56f6385ba44611,8,,,,0,0,0,,,0,0,,,-,0,0,Noor Ahmad,4.0,26.0,1.0,6.5,3.0,24.0,11.0,13.0,54.17,1.85,3.0,1.0,69.23,6.00,24.00,46.15,23.08,1850,2,13,Noor Ahmad 
+2022-100mb00000000978-bc824605a44611,11,,,,0,0,0,,,0,0,,,-,0,0,Yash Dayal,4.0,41.0,1.0,10.25,3.0,24.0,21.0,4.0,16.67,6.00,2.0,2.0,48.78,6.00,24.00,19.51,29.27,1850,1,19,Yash Dayal 
+2022-100mb00000001000-d90666b7a44d11,6,Noor Ahmad,c Dewald Brevis b Noor Ahmad,c Dewald Brevis b Noor Ahmad,7,8,5,62.50,1.60,1,0,57.14,8.00,87.50,4,4,,,,,,,,,,,,,,,,,,,1850,1,19,Jitesh Sharma (wk)
+2022-100mb00000001014-1f0cfb3dc17911,11,,,,0,0,0,,,0,0,,,-,0,0,Matheesha Pathirana,4.0,36.0,3.0,9.0,6.0,24.0,17.0,10.0,41.67,2.40,3.0,2.0,66.67,4.80,8.00,33.33,33.33,1850,2,13,Matheesha Pathirana  (RP)
+202265c5509b72a911ec8ab502ab46c,6,Lungisani Ngidi,lbw Lungisani Ngidi,lbw Lungisani Ngidi,0,1,1,100.00,1.00,0,0,,,0.00,1,0,,,,,,,,,,,,,,,,,,,1850,2,13,Dewald Brevis 
+2023-100mb00000001932-5539f1d7c3fd11,4,,,,0,0,0,,,0,0,,,-,0,0,Suyash Sharma,4.0,43.0,0.0,10.75,5.0,24.0,22.0,2.0,8.33,12.00,4.0,1.0,51.16,4.80,0,37.21,13.95,1850,1,19,Suyash Sharma  (IP)
+2024-100mb00000003106-047b3989df9b11,10,,,,0,0,0,,,0,0,,,-,0,0,Anshul Kamboj,3.0,25.0,0.0,8.33,2.0,18.0,11.0,7.0,38.89,2.57,3.0,1.0,72.00,4.50,0,48.00,24.00,1850,2,13,Anshul Kamboj 
+2024-100mb00000003497-dc521b85a24811,3,Lungisani Ngidi,c Krunal Pandya b Lungisani Ngidi,c Krunal Pandya b Lungisani Ngidi,94,48,10,20.83,4.80,9,5,70.21,3.43,195.83,29,19,,,,,,,,,,,,,,,,,,,1850,2,13,Ayush Mhatre 

@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000018-6e65e6f7e99c11,1,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1817,1,77,Rishabh Pant (c)(wk)
+2018-100mb00000000040-7f15f6c7f88a11,11,Andre Russell,c Rinku Singh b Andre Russell,c Rinku Singh b Andre Russell,81,48,16,33.33,3.00,6,5,66.67,4.36,168.75,25,23,,,,,,,,,,,,,,,,,,,1817,1,77,Mitchell Marsh  (RP)
+2018-100mb00000000044-e03a43dbf88a11,1,Shardul Thakur,c Nicholas Pooran b Shardul Thakur,c Nicholas Pooran b Shardul Thakur,61,35,11,31.43,3.18,8,2,72.13,3.50,174.29,23,12,,,,,,,,,,,,,,,,,,,1817,2,16,Ajinkya Rahane (c)
+2019-100mb00000000105-4c526de743fe11,8,,,,0,0,0,,,0,0,,,-,0,0,Shardul Thakur,4.0,52.0,2.0,13.0,2.0,24.0,23.0,9.0,37.50,2.67,6.0,2.0,69.23,3.00,12.00,46.15,23.08,1817,1,77,Shardul Thakur 
+2019-100mb00000000109-5cc123ab449411,11,,,,0,0,0,,,0,0,,,-,0,0,Avesh Khan,4.0,45.0,1.0,11.25,3.0,24.0,14.0,10.0,41.67,2.40,5.0,3.0,84.44,3.00,24.00,44.44,40.00,1817,1,77,Avesh Khan 
+2019-100mb00000000128-e95bebea449911,5,,not out,not out,4,4,1,25.00,4.00,0,0,0.00,,100.00,4,0,,,,,,,,,,,,,,,,,,,1817,1,77,David Miller 
+2019-100mb00000000136-9313d156449c11,4,,not out,not out,87,36,11,30.56,3.27,7,8,87.36,2.40,241.67,28,8,,,,,,,,,,,,,,,,,,,1817,1,77,Nicholas Pooran 
+2019-100mb00000000140-a41b85f2449d11,11,,,,0,0,0,,,0,0,,,-,0,0,Varun Chakaravarthy,4.0,31.0,0.0,7.75,3.0,24.0,16.0,9.0,37.50,2.67,1.0,2.0,51.61,8.00,0,12.90,38.71,1817,2,16,Varun Chakaravarthy  (RP)
+2019-100mb00000000141-e67c41d144a711,6,Shardul Thakur,c David Miller b Shardul Thakur,c David Miller b Shardul Thakur,7,4,2,50.00,2.00,0,1,85.71,4.00,175.00,4,0,Andre Russell,2.0,32.0,1.0,16.0,6.0,12.0,8.0,4.0,33.33,3.00,3.0,3.0,93.75,2.00,12.00,37.50,56.25,1817,2,16,Andre Russell 
+2019-100mb00000000152-335aed3d44aa11,4,,not out,not out,38,15,5,33.33,3.00,6,2,94.74,1.88,253.33,9,6,,,,,,,,,,,,,,,,,,,1817,2,16,Rinku Singh 
+2019-100mb00000000156-a6b6f42c44aa11,5,Digvesh Singh,c Aiden Markram b Digvesh Singh,c Aiden Markram b Digvesh Singh,30,13,5,38.46,2.60,4,2,93.33,2.17,230.77,12,1,Sunil Narine,3.0,38.0,0.0,12.67,5.0,18.0,13.0,6.0,33.33,3.00,2.0,3.0,68.42,3.60,0,21.05,47.37,1817,2,16,Sunil Narine 
+2019-100mb00000000170-9429250944ae11,2,Akash Deep,lbw Akash Deep,lbw Akash Deep,15,9,4,44.44,2.25,0,2,80.00,4.50,166.67,9,0,,,,,,,,,,,,,,,,,,,1817,2,16,Quinton De Kock (wk)
+2019-100mb00000000287-ca1a6bb17ae311,3,Harshit Rana,b Harshit Rana,b Harshit Rana,47,28,7,25.00,4.00,4,2,59.57,4.67,167.86,17,11,,,,,,,,,,,,,,,,,,,1817,1,77,Aiden Markram 
+2020-100mb00000000520-c2b1e0df638711,2,,,,0,0,0,,,0,0,,,-,0,0,Ravi Bishnoi,4.0,47.0,1.0,11.75,5.0,24.0,19.0,8.0,33.33,3.00,6.0,2.0,76.60,3.00,24.00,51.06,25.53,1817,1,77,Ravi Bishnoi  (IP)
+2020-100mb00000000525-4d2e1ac6639511,7,Harshit Rana,b Harshit Rana,b Harshit Rana,6,4,1,25.00,4.00,1,0,66.67,4.00,150.00,4,0,,,,,,,,,,,,,,,,,,,1817,1,77,Abdul Samad 
+2021-100mb00000000583-8f4c0c4491dd11,8,,,,0,0,0,,,0,0,,,-,0,0,Vaibhav Arora,4.0,35.0,0.0,8.75,1.0,24.0,19.0,9.0,37.50,2.67,2.0,1.0,40.00,8.00,0,22.86,17.14,1817,2,16,Vaibhav Arora 
+2021-100mb00000000584-a3f48c1791dd11,3,Akash Deep,c Aiden Markram b Akash Deep,c Aiden Markram b Akash Deep,45,29,9,31.03,3.22,6,1,66.67,4.14,155.17,8,21,,,,,,,,,,,,,,,,,,,1817,2,16,Venkatesh Iyer 
+20214a2b63d55d7711ec9c9202ea608,11,Avesh Khan,c Rishabh Pant b Avesh Khan,c Rishabh Pant b Avesh Khan,5,4,2,50.00,2.00,1,0,80.00,4.00,125.00,4,0,,,,,,,,,,,,,,,,,,,1817,2,16,Angkrish Raghuvanshi  (IP)
+2022-100mb00000000985-f5950061a44811,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1817,1,77,Ayush Badoni 
+2022-100mb00000000991-d9fbad51a44b11,7,Ravi Bishnoi,c Aiden Markram b Ravi Bishnoi,c Aiden Markram b Ravi Bishnoi,1,2,1,50.00,2.00,0,0,0.00,,50.00,0,2,,,,,,,,,,,,,,,,,,,1817,2,16,Ramandeep Singh 
+2022-100mb00000001007-1363a306a45011,10,,,,0,0,0,,,0,0,,,-,0,0,Akash Deep,4.0,55.0,2.0,13.75,1.0,24.0,18.0,9.0,37.50,2.67,7.0,3.0,83.64,2.40,12.00,50.91,32.73,1817,1,77,Akash Deep 
+2022-100mb00000001013-30676520bcc011,10,,not out,not out,10,9,5,55.56,1.80,2,0,80.00,4.50,111.11,3,6,Harshit Rana,4.0,51.0,2.0,12.75,4.0,24.0,19.0,5.0,20.83,4.80,4.0,4.0,78.43,3.00,12.00,31.37,47.06,1817,2,16,Harshit Rana 
+2023-100mb00000002518-9a5f0c5357b311,9,,,,0,0,0,,,0,0,,,-,0,0,Spencer Johnson,3.0,46.0,0.0,15.33,2.0,18.0,17.0,3.0,16.67,6.00,6.0,2.0,78.26,2.25,0,52.17,26.09,1817,2,16,Spencer Johnson 
+2024-100mb00000003565-6cf0c233abda11,9,,,,0,0,0,,,0,0,,,-,0,0,Digvesh Singh,4.0,33.0,1.0,8.25,4.0,24.0,18.0,8.0,33.33,3.00,4.0,0.0,48.48,6.00,24.00,48.48,0.00,1817,1,77,Digvesh Singh 

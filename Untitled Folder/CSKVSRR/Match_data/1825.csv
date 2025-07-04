@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000010-b76159ade99b11,11,,,,0,0,0,,,0,0,,,-,0,0,Yuzvendra Chahal,4.0,56.0,1.0,14.0,7.0,24.0,22.0,3.0,12.50,8.00,4.0,4.0,71.43,3.00,24.00,28.57,42.86,1825,1,15,Yuzvendra Chahal 
+2018-100mb00000000012-ea4c47d2e99b11,1,Harshal Patel,c Travis Head b Harshal Patel,c Travis Head b Harshal Patel,82,36,5,13.89,7.20,6,6,73.17,3.00,227.78,23,13,,,,,,,,,,,,,,,,,,,1825,1,15,Shreyas Iyer (c)
+2018-100mb00000000023-201fd633e99d11,7,,not out,not out,34,11,1,9.09,11.00,1,4,82.35,2.20,309.09,11,0,Marcus Stoinis,0.4,6.0,0.0,9.0,6.0,4.0,3.0,2.0,50.00,2.00,1.0,0.0,66.67,4.00,0,66.67,0.00,1825,1,15,Marcus Stoinis 
+2018-100mb00000000028-acc7d0a3e99d11,6,Harshal Patel,b Harshal Patel,b Harshal Patel,3,7,4,57.14,1.75,0,0,0.00,,42.86,5,2,Glenn Maxwell,3.0,40.0,0.0,13.33,4.0,18.0,18.0,3.0,16.67,6.00,2.0,3.0,65.00,3.60,0,20.00,45.00,1825,1,15,Glenn Maxwell 
+2018-100mb00000000033-d93110bbf88911,1,,,,0,0,0,,,0,0,,,-,0,0,Pat Cummins,4.0,40.0,0.0,10.0,2.0,24.0,17.0,9.0,37.50,2.67,4.0,2.0,70.00,4.00,0,40.00,30.00,1825,2,20,Pat Cummins (c)
+2018-100mb00000000037-4e250de6f88a11,2,Yuzvendra Chahal,c Glenn Maxwell b Yuzvendra Chahal,c Glenn Maxwell b Yuzvendra Chahal,66,37,13,35.14,2.85,9,3,81.82,3.08,178.38,18,19,,,,,,,,,,,,,,,,,,,1825,2,20,Travis Head 
+2018-100mb00000000047-1bfc8ff2f88b11,9,,,,0,0,0,,,0,0,,,-,0,0,Mohammad Shami,4.0,75.0,0.0,18.75,1.0,24.0,21.0,3.0,12.50,8.00,6.0,7.0,88.00,1.85,0,32.00,56.00,1825,2,20,Mohammad Shami 
+2019-100mb00000000069-7aeb5c411e3711,9,,,,0,0,0,,,0,0,,,-,0,0,Lockie Ferguson,0.2,1.0,0.0,3.0,5.0,2.0,1.0,1.0,50.00,2.00,0.0,0.0,0.00,0,0,0.00,0.00,1825,1,15,Lockie Ferguson 
+2019-100mb00000000114-8c98068c449611,8,,,,0,0,0,,,0,0,,,-,0,0,Harshal Patel,4.0,42.0,4.0,10.5,3.0,24.0,19.0,7.0,29.17,3.43,3.0,2.0,57.14,4.80,6.00,28.57,28.57,1825,2,20,Harshal Patel 
+2019-100mb00000000125-2485f88b449911,10,,,,0,0,0,,,0,0,,,-,0,0,Arshdeep Singh,4.0,37.0,1.0,9.25,1.0,24.0,14.0,11.0,45.83,2.18,6.0,1.0,81.08,3.43,24.00,64.86,16.22,1825,1,15,Arshdeep Singh 
+2019-100mb00000000137-d774e3d1449c11,2,Eshan Malinga,c Pat Cummins b Eshan Malinga,c Pat Cummins b Eshan Malinga,42,23,8,34.78,2.88,7,1,80.95,2.88,182.61,23,0,,,,,,,,,,,,,,,,,,,1825,1,15,Prabhsimran Singh (wk)
+2019-100mb00000000164-8ae075db44ad11,4,,not out,not out,9,6,1,16.67,6.00,1,0,44.44,6.00,150.00,6,0,,,,,,,,,,,,,,,,,,,1825,2,20,Ishan Kishan 
+2019-100mb00000000191-df21803b44b711,4,Harshal Patel,lbw Harshal Patel,lbw Harshal Patel,2,3,1,33.33,3.00,0,0,0.00,,66.67,3,0,Shashank Singh,2.0,27.0,0.0,13.5,8.0,12.0,9.0,3.0,25.00,4.00,4.0,1.0,81.48,2.40,0,59.26,22.22,1825,1,15,Shashank Singh 
+2019-100mb00000000202-438eed6944ba11,6,,not out,not out,21,14,4,28.57,3.50,2,1,66.67,4.67,150.00,10,4,,,,,,,,,,,,,,,,,,,1825,2,20,Heinrich Klaasen (wk)
+2019-100mb00000000212-9df3a24d44bc11,3,Arshdeep Singh,c (Sub) Pravin Dubey b Arshdeep Singh,c (Sub) Pravin Dubey b Arshdeep Singh,141,55,11,20.00,5.00,14,10,82.27,2.29,256.36,35,19,,,,,,,,,,,,,,,,,,,1825,2,20,Abhishek Sharma 
+2021-100mb00000000586-8238f85f91de11,8,,not out,not out,5,5,1,20.00,5.00,0,0,0.00,,100.00,5,0,Marco Jansen,2.0,39.0,0.0,19.5,2.0,12.0,10.0,2.0,16.67,6.00,6.0,2.0,92.31,1.50,0,61.54,30.77,1825,1,15,Marco Jansen 
+2022-100mb00000000974-314d9cf0a44611,11,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1825,2,20,Abhinav Manohar  (IP)
+2022-100mb00000001541-e0ad58e954e911,5,Eshan Malinga,lbw Eshan Malinga,lbw Eshan Malinga,27,22,6,27.27,3.67,2,1,51.85,7.33,122.73,13,9,,,,,,,,,,,,,,,,,,,1825,1,15,Nehal Wadhera 
+2022-100mb00000001550-b8b1d54854ee11,3,,,,0,0,0,,,0,0,,,-,0,0,Yash Thakur,2.3,40.0,0.0,16.0,3.0,15.0,15.0,3.0,20.00,5.00,3.0,3.0,75.00,2.50,0,30.00,45.00,1825,1,15,Yash Thakur  (IP)
+2023-100mb00000001944-c9a4b0e8c40511,5,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1825,2,20,Nitish Kumar Reddy 
+2024-100mb00000003339-537276b84ff411,11,,,,0,0,0,,,0,0,,,-,0,0,Eshan Malinga,4.0,45.0,2.0,11.25,4.0,24.0,20.0,6.0,25.00,4.00,5.0,2.0,71.11,3.43,12.00,44.44,26.67,1825,2,20,Eshan Malinga  (RP)
+2024-100mb00000003571-3dc322afabdd11,11,Harshal Patel,c Nitish Kumar Reddy b Harshal Patel,c Nitish Kumar Reddy b Harshal Patel,36,13,3,23.08,4.33,2,4,88.89,2.17,276.92,13,0,,,,,,,,,,,,,,,,,,,1825,1,15,Priyansh Arya  (RP)
+2024-100mb00000003575-83bb5544abdf11,10,,,,0,0,0,,,0,0,,,-,0,0,Zeeshan Ansari,4.0,41.0,0.0,10.25,5.0,24.0,22.0,4.0,16.67,6.00,1.0,3.0,53.66,6.00,0,9.76,43.90,1825,2,20,Zeeshan Ansari 
+2024-100mb00000003576-caeb1dadabdf11,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1825,2,20,Aniket Verma 

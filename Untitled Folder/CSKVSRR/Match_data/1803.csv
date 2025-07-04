@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000010-b76159ade99b11,11,,,,0,0,0,,,0,0,,,-,0,0,Yuzvendra Chahal,3.0,34.0,0.0,11.33,6.0,18.0,15.0,4.0,22.22,4.50,3.0,2.0,70.59,3.60,0,35.29,35.29,1803,1,15,Yuzvendra Chahal 
+2018-100mb00000000012-ea4c47d2e99b11,1,,not out,not out,97,42,9,21.43,4.67,5,9,76.29,3.00,230.95,24,18,,,,,,,,,,,,,,,,,,,1803,1,15,Shreyas Iyer (c)
+2018-100mb00000000023-201fd633e99d11,5,Sai Kishore,c Mohd Arshad Khan b Sai Kishore,c Mohd Arshad Khan b Sai Kishore,20,15,8,53.33,1.88,1,2,80.00,5.00,133.33,4,11,Marcus Stoinis,2.0,31.0,0.0,15.5,5.0,12.0,9.0,3.0,25.00,4.00,2.0,3.0,83.87,2.40,0,25.81,58.06,1803,1,15,Marcus Stoinis 
+2018-100mb00000000028-acc7d0a3e99d11,6,Sai Kishore,lbw Sai Kishore,lbw Sai Kishore,0,1,1,100.00,1.00,0,0,,,0.00,0,1,Glenn Maxwell,2.0,26.0,1.0,13.0,4.0,12.0,10.0,3.0,25.00,4.00,1.0,2.0,61.54,4.00,12.00,15.38,46.15,1803,1,15,Glenn Maxwell 
+2019-100mb00000000062-8fa4884a17f311,1,Glenn Maxwell,c Priyansh Arya b Glenn Maxwell,c Priyansh Arya b Glenn Maxwell,33,14,4,28.57,3.50,2,3,78.79,2.80,235.71,11,3,,,,,,,,,,,,,,,,,,,1803,2,35,Shubman Gill (c)
+2019-100mb00000000063-d9aa7a01187311,10,,,,0,0,0,,,0,0,,,-,0,0,Mohammed Siraj,4.0,54.0,0.0,13.5,1.0,24.0,17.0,10.0,41.67,2.40,8.0,3.0,92.59,2.18,0,59.26,33.33,1803,2,35,Mohammed Siraj 
+2019-100mb00000000116-dbd48930449611,9,,,,0,0,0,,,0,0,,,-,0,0,Kagiso Rabada,4.0,41.0,1.0,10.25,2.0,24.0,18.0,8.0,33.33,3.00,5.0,1.0,63.41,4.00,24.00,48.78,14.63,1803,2,35,Kagiso Rabada 
+2019-100mb00000000120-7489ddcc449711,5,Arshdeep Singh,run out (Arshdeep Singh),run out (Arshdeep Singh),6,2,1,50.00,2.00,0,1,100.00,2.00,300.00,2,0,,,,,,,,,,,,,,,,,,,1803,2,35,Rahul Tewatia 
+2019-100mb00000000122-ba35f672449711,11,Arshdeep Singh,b Arshdeep Singh,b Arshdeep Singh,46,28,11,39.29,2.55,4,3,73.91,4.00,164.29,28,0,,,,,,,,,,,,,,,,,,,1803,2,35,Sherfane Rutherford  (IP)
+2019-100mb00000000125-2485f88b449911,10,,,,0,0,0,,,0,0,,,-,0,0,Arshdeep Singh,4.0,36.0,2.0,9.0,1.0,24.0,13.0,11.0,45.83,2.18,2.0,3.0,72.22,4.80,12.00,22.22,50.00,1803,1,15,Arshdeep Singh 
+2019-100mb00000000137-d774e3d1449c11,2,Kagiso Rabada,c Mohd Arshad Khan b Kagiso Rabada,c Mohd Arshad Khan b Kagiso Rabada,5,8,6,75.00,1.33,1,0,80.00,8.00,62.50,8,0,,,,,,,,,,,,,,,,,,,1803,1,15,Prabhsimran Singh (wk)
+2019-100mb00000000150-3a51ee2844a911,11,,,,0,0,0,,,0,0,,,-,0,0,Prasidh Krishna,3.0,41.0,0.0,13.67,5.0,18.0,12.0,6.0,33.33,3.00,4.0,3.0,82.93,2.57,0,39.02,43.90,1803,2,35,Prasidh Krishna  (RP)
+2019-100mb00000000182-b78f12ef44b611,3,Marco Jansen,b Marco Jansen,b Marco Jansen,54,33,7,21.21,4.71,4,2,51.85,5.50,163.64,23,10,,,,,,,,,,,,,,,,,,,1803,2,35,Jos Buttler (wk)
+2019-100mb00000000191-df21803b44b711,4,,not out,not out,44,16,2,12.50,8.00,6,2,81.82,2.00,275.00,9,7,,,,,,,,,,,,,,,,,,,1803,1,15,Shashank Singh 
+2019-100mb00000000218-42d9d6f544bf11,8,,,,0,0,0,,,0,0,,,-,0,0,Rashid Khan,4.0,48.0,1.0,12.0,4.0,24.0,16.0,8.0,33.33,3.00,2.0,5.0,79.17,3.43,24.00,16.67,62.50,1803,2,35,Rashid Khan 
+2020-100mb00000000544-980117aa639c11,6,,,,0,0,0,,,0,0,,,-,0,0,Sai Kishore,4.0,30.0,3.0,7.5,6.0,24.0,12.0,12.0,50.00,2.00,1.0,3.0,73.33,6.00,8.00,13.33,60.00,1803,2,35,Sai Kishore 
+2021-100mb00000000586-8238f85f91de11,9,,,,0,0,0,,,0,0,,,-,0,0,Marco Jansen,4.0,44.0,1.0,11.0,3.0,24.0,19.0,6.0,25.00,4.00,4.0,2.0,63.64,4.00,24.00,36.36,27.27,1803,1,15,Marco Jansen 
+2021-100mb00000000590-85eaa6f291e011,4,,not out,not out,6,1,0,0.00,,0,1,100.00,1.00,600.00,1,0,,,,,,,,,,,,,,,,,,,1803,2,35,Shahrukh Khan 
+2022-100mb00000000976-79aa33cca44611,2,Arshdeep Singh,c Shashank Singh b Arshdeep Singh,c Shashank Singh b Arshdeep Singh,74,41,14,34.15,2.93,5,6,75.68,3.73,180.49,24,17,,,,,,,,,,,,,,,,,,,1803,2,35,Sai Sudharsan 
+2022-100mb00000000988-ad5c752aa44a11,7,,not out,not out,1,1,0,0.00,,0,0,0.00,,100.00,1,0,Mohd Arshad Khan,1.0,21.0,0.0,21.0,3.0,6.0,6.0,1.0,16.67,6.00,3.0,1.0,85.71,1.50,0,57.14,28.57,1803,2,35,Mohd Arshad Khan 
+2022-100mb00000001354-5a766b041e0411,8,Sai Kishore,c Mohd Arshad Khan b Sai Kishore,c Mohd Arshad Khan b Sai Kishore,16,15,10,66.67,1.50,2,1,87.50,5.00,106.67,7,8,Azmatullah Omarzai,2.0,29.0,0.0,14.5,2.0,12.0,9.0,3.0,25.00,4.00,1.0,3.0,75.86,3.00,0,13.79,62.07,1803,1,15,Azmatullah Omarzai 
+2023-100mb00000002034-c2959cc8d5eb11,3,,,,0,0,0,,,0,0,,,-,0,0,Vyshak Vijaykumar,3.0,28.0,0.0,9.33,7.0,18.0,16.0,7.0,38.89,2.57,2.0,1.0,50.00,6.00,0,28.57,21.43,1803,1,15,Vyshak Vijaykumar  (IP)
+2023-100mb00000002146-0271ce42f60911,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1803,1,15,Suryansh Shedge 
+2024-100mb00000003571-3dc322afabdd11,11,Rashid Khan,c Sai Sudharsan b Rashid Khan,c Sai Sudharsan b Rashid Khan,47,23,9,39.13,2.56,7,2,85.11,2.56,204.35,20,3,,,,,,,,,,,,,,,,,,,1803,1,15,Priyansh Arya  (RP)

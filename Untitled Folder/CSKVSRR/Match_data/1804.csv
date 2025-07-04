@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000044-e03a43dbf88a11,1,Wanindu Hasaranga,c Tushar Deshpande b Wanindu Hasaranga,c Tushar Deshpande b Wanindu Hasaranga,18,15,6,40.00,2.50,1,1,55.56,7.50,120.00,0,15,,,,,,,,,,,,,,,,,,,1804,2,16,Ajinkya Rahane (c)
+2019-100mb00000000140-a41b85f2449d11,11,,,,0,0,0,,,0,0,,,-,0,0,Varun Chakaravarthy,4.0,17.0,2.0,4.25,5.0,24.0,11.0,13.0,54.17,1.85,0.0,1.0,35.29,24.00,12.00,0.00,35.29,1804,2,16,Varun Chakaravarthy  (RP)
+2019-100mb00000000141-e67c41d144a711,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1804,2,16,Andre Russell 
+2019-100mb00000000148-ef59629644a811,4,Moeen Ali,b Moeen Ali,b Moeen Ali,8,9,2,22.22,4.50,0,0,0.00,,88.89,0,9,Nitish Rana,1.0,9.0,0.0,9.0,6.0,6.0,6.0,0.0,0.00,0,1.0,0.0,44.44,6.00,0,44.44,0.00,1804,1,18,Nitish Rana 
+2019-100mb00000000152-335aed3d44aa11,4,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1804,2,16,Rinku Singh 
+2019-100mb00000000170-9429250944ae11,2,,not out,not out,97,61,19,31.15,3.21,8,6,70.10,4.36,159.02,20,41,,,,,,,,,,,,,,,,,,,1804,2,16,Quinton De Kock (wk)
+2019-100mb00000000181-80151ce844b611,8,Spencer Johnson,b Spencer Johnson,b Spencer Johnson,16,7,2,28.57,3.50,0,2,75.00,3.50,228.57,7,0,Jofra Archer,2.3,33.0,0.0,13.2,1.0,15.0,12.0,7.0,46.67,2.14,2.0,3.0,78.79,3.00,0,24.24,54.55,1804,1,18,Jofra Archer 
+2019-100mb00000000189-ac8c327a44b711,1,Varun Chakaravarthy,c Quinton De Kock b Varun Chakaravarthy,c Quinton De Kock b Varun Chakaravarthy,25,15,5,33.33,3.00,0,3,72.00,5.00,166.67,8,7,Riyan Parag,4.0,25.0,0.0,6.25,3.0,24.0,17.0,7.0,29.17,3.43,1.0,1.0,40.00,12.00,0,16.00,24.00,1804,1,18,Riyan Parag (c)
+2019-100mb00000000190-c62cbae544b711,11,Vaibhav Arora,b Vaibhav Arora,b Vaibhav Arora,13,11,5,45.45,2.20,2,0,61.54,5.50,118.18,11,0,,,,,,,,,,,,,,,,,,,1804,1,18,Sanju Samson  (RP)
+2019-100mb00000000206-501d92f644bb11,5,Riyan Parag,run out (Maheesh Theekshana),run out (Maheesh Theekshana),5,12,7,58.33,1.71,0,0,0.00,,41.67,8,4,Moeen Ali,4.0,23.0,2.0,5.75,4.0,24.0,19.0,5.0,20.83,4.80,1.0,0.0,17.39,24.00,12.00,17.39,0.00,1804,2,16,Moeen Ali 
+2019-100mb00000000210-b8addb3444bb11,6,Harshit Rana,c Angkrish Raghuvanshi b Harshit Rana,c Angkrish Raghuvanshi b Harshit Rana,7,8,4,50.00,2.00,1,0,57.14,8.00,87.50,5,3,,,,,,,,,,,,,,,,,,,1804,1,18,Shimron Hetmyer 
+2019-100mb00000000220-18a6ceb644c011,11,,,,0,0,0,,,0,0,,,-,0,0,Sandeep Sharma,2.0,11.0,0.0,5.5,4.0,12.0,8.0,4.0,33.33,3.00,1.0,0.0,36.36,12.00,0,36.36,0.00,1804,1,18,Sandeep Sharma 
+2020-100mb00000000377-c8cec37e2dec11,7,Varun Chakaravarthy,c Ajinkya Rahane b Varun Chakaravarthy,c Ajinkya Rahane b Varun Chakaravarthy,4,4,1,25.00,4.00,0,0,0.00,,100.00,0,4,Wanindu Hasaranga,3.0,34.0,1.0,11.33,5.0,18.0,16.0,2.0,11.11,9.00,4.0,1.0,64.71,3.60,18.00,47.06,17.65,1804,1,18,Wanindu Hasaranga 
+2020-100mb00000000533-e895f279639811,2,Moeen Ali,c Harshit Rana b Moeen Ali,c Harshit Rana b Moeen Ali,29,24,11,45.83,2.18,2,2,68.97,6.00,120.83,17,7,,,,,,,,,,,,,,,,,,,1804,1,18,Yashasvi Jaiswal 
+2020-100mb00000000539-04833b65639b11,10,,not out,not out,2,1,0,0.00,,0,0,0.00,,200.00,1,0,Tushar Deshpande,1.0,7.0,0.0,7.0,7.0,6.0,4.0,2.0,33.33,3.00,1.0,0.0,57.14,6.00,0,57.14,0.00,1804,1,18,Tushar Deshpande 
+2021-100mb00000000583-8f4c0c4491dd11,9,,,,0,0,0,,,0,0,,,-,0,0,Vaibhav Arora,4.0,33.0,2.0,8.25,2.0,24.0,16.0,9.0,37.50,2.67,2.0,2.0,60.61,6.00,12.00,24.24,36.36,1804,2,16,Vaibhav Arora 
+2021-100mb00000000584-a3f48c1791dd11,3,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1804,2,16,Venkatesh Iyer 
+2021-100mb00000000629-11c540100bd311,9,,not out,not out,1,1,0,0.00,,0,0,0.00,,100.00,1,0,Maheesh Theekshana,4.0,32.0,0.0,8.0,2.0,24.0,14.0,11.0,45.83,2.18,2.0,2.0,62.50,6.00,0,25.00,37.50,1804,1,18,Maheesh Theekshana 
+20214a2b63d55d7711ec9c9202ea608,11,,not out,not out,22,17,1,5.88,17.00,2,0,36.36,8.50,129.41,5,12,,,,,,,,,,,,,,,,,,,1804,2,16,Angkrish Raghuvanshi  (IP)
+2022-100mb00000000991-d9fbad51a44b11,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1804,2,16,Ramandeep Singh 
+2022-100mb00000001004-da6e207ea44e11,5,Harshit Rana,b Harshit Rana,b Harshit Rana,33,28,11,39.29,2.55,5,0,60.61,5.60,117.86,16,12,,,,,,,,,,,,,,,,,,,1804,1,18,Dhruv Jurel (wk)
+2022-100mb00000001013-30676520bcc011,10,,,,0,0,0,,,0,0,,,-,0,0,Harshit Rana,4.0,36.0,2.0,9.0,3.0,24.0,13.0,11.0,45.83,2.18,4.0,2.0,77.78,4.00,12.00,44.44,33.33,1804,2,16,Harshit Rana 
+2023-100mb00000002518-9a5f0c5357b311,8,,,,0,0,0,,,0,0,,,-,0,0,Spencer Johnson,4.0,42.0,1.0,10.5,1.0,24.0,18.0,9.0,37.50,2.67,4.0,2.0,66.67,4.00,24.00,38.10,28.57,1804,2,16,Spencer Johnson 
+2024-100mb00000003112-76787b7ddf9f11,3,Vaibhav Arora,c Andre Russell b Vaibhav Arora,c Andre Russell b Vaibhav Arora,9,12,6,50.00,2.00,1,0,44.44,12.00,75.00,6,6,,,,,,,,,,,,,,,,,,,1804,1,18,Shubham Dubey  (IP)

@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000010-b76159ade99b11,11,,,,0,0,0,,,0,0,,,-,0,0,Yuzvendra Chahal,4.0,36.0,1.0,9.0,6.0,24.0,16.0,8.0,33.33,3.00,3.0,2.0,66.67,4.80,24.00,33.33,33.33,1811,2,15,Yuzvendra Chahal  (RP)
+2018-100mb00000000012-ea4c47d2e99b11,1,,not out,not out,52,30,7,23.33,4.29,3,4,69.23,4.29,173.33,12,18,,,,,,,,,,,,,,,,,,,1811,2,15,Shreyas Iyer (c)
+2018-100mb00000000018-6e65e6f7e99c11,1,Glenn Maxwell,c Yuzvendra Chahal b Glenn Maxwell,c Yuzvendra Chahal b Glenn Maxwell,2,5,3,60.00,1.67,0,0,0.00,,40.00,1,4,,,,,,,,,,,,,,,,,,,1811,1,77,Rishabh Pant (c)(wk)
+2018-100mb00000000023-201fd633e99d11,5,,,,0,0,0,,,0,0,,,-,0,0,Marcus Stoinis,2.0,15.0,0.0,7.5,5.0,12.0,7.0,5.0,41.67,2.40,1.0,1.0,66.67,6.00,0,26.67,40.00,1811,2,15,Marcus Stoinis 
+2018-100mb00000000028-acc7d0a3e99d11,7,,,,0,0,0,,,0,0,,,-,0,0,Glenn Maxwell,3.0,22.0,1.0,7.33,3.0,18.0,10.0,8.0,44.44,2.25,4.0,0.0,72.73,4.50,18.00,72.73,0.00,1811,2,15,Glenn Maxwell 
+2018-100mb00000000040-7f15f6c7f88a11,5,Arshdeep Singh,c Marco Jansen b Arshdeep Singh,c Marco Jansen b Arshdeep Singh,0,1,1,100.00,1.00,0,0,,,0.00,1,0,,,,,,,,,,,,,,,,,,,1811,1,77,Mitchell Marsh 
+2019-100mb00000000069-7aeb5c411e3711,10,,,,0,0,0,,,0,0,,,-,0,0,Lockie Ferguson,3.0,26.0,1.0,8.67,2.0,18.0,12.0,7.0,38.89,2.57,1.0,2.0,61.54,6.00,18.00,15.38,46.15,1811,2,15,Lockie Ferguson 
+2019-100mb00000000105-4c526de743fe11,10,,not out,not out,3,3,1,33.33,3.00,0,0,0.00,,100.00,3,0,Shardul Thakur,3.0,39.0,0.0,13.0,1.0,18.0,13.0,6.0,33.33,3.00,2.0,4.0,82.05,3.00,0,20.51,61.54,1811,1,77,Shardul Thakur 
+2019-100mb00000000109-5cc123ab449411,9,,not out,not out,0,0,0,,,0,0,,,-,0,0,Avesh Khan,3.0,30.0,0.0,10.0,2.0,18.0,14.0,5.0,27.78,3.60,2.0,2.0,66.67,4.50,0,26.67,40.00,1811,1,77,Avesh Khan 
+2019-100mb00000000125-2485f88b449911,11,,,,0,0,0,,,0,0,,,-,0,0,Arshdeep Singh,4.0,43.0,3.0,10.75,1.0,24.0,18.0,8.0,33.33,3.00,6.0,1.0,69.77,3.43,8.00,55.81,13.95,1811,2,15,Arshdeep Singh 
+2019-100mb00000000128-e95bebea449911,11,Marco Jansen,c Prabhsimran Singh b Marco Jansen,c Prabhsimran Singh b Marco Jansen,19,18,9,50.00,2.00,3,0,63.16,6.00,105.56,6,12,,,,,,,,,,,,,,,,,,,1811,1,77,David Miller  (RP)
+2019-100mb00000000136-9313d156449c11,2,Yuzvendra Chahal,c Glenn Maxwell b Yuzvendra Chahal,c Glenn Maxwell b Yuzvendra Chahal,44,30,12,40.00,2.50,5,2,72.73,4.29,146.67,17,13,,,,,,,,,,,,,,,,,,,1811,1,77,Nicholas Pooran 
+2019-100mb00000000137-d774e3d1449c11,2,Digvesh Singh,c Ravi Bishnoi b Digvesh Singh,c Ravi Bishnoi b Digvesh Singh,69,34,8,23.53,4.25,9,3,78.26,2.83,202.94,12,22,,,,,,,,,,,,,,,,,,,1811,2,15,Prabhsimran Singh (wk)
+2019-100mb00000000191-df21803b44b711,4,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1811,2,15,Shashank Singh 
+2019-100mb00000000287-ca1a6bb17ae311,4,Lockie Ferguson,b Lockie Ferguson,b Lockie Ferguson,28,18,7,38.89,2.57,4,1,78.57,3.60,155.56,18,0,,,,,,,,,,,,,,,,,,,1811,1,77,Aiden Markram 
+2020-100mb00000000520-c2b1e0df638711,11,,,,0,0,0,,,0,0,,,-,0,0,Ravi Bishnoi,3.0,43.0,0.0,14.33,4.0,18.0,12.0,6.0,33.33,3.00,5.0,3.0,88.37,2.25,0,46.51,41.86,1811,1,77,Ravi Bishnoi 
+2020-100mb00000000525-4d2e1ac6639511,8,Arshdeep Singh,c Priyansh Arya b Arshdeep Singh,c Priyansh Arya b Arshdeep Singh,27,12,1,8.33,12.00,2,2,74.07,3.00,225.00,10,2,Abdul Samad,0.2,6.0,0.0,18.0,6.0,2.0,1.0,1.0,50.00,2.00,0.0,1.0,100.00,2.00,0,0.00,100.00,1811,1,77,Abdul Samad 
+2020-100mb00000000532-63bf237a639811,7,,,,0,0,0,,,0,0,,,-,0,0,M Siddharth,3.0,28.0,0.0,9.33,5.0,18.0,16.0,3.0,16.67,6.00,2.0,1.0,50.00,6.00,0,28.57,21.43,1811,1,77,M Siddharth  (IP)
+2021-100mb00000000586-8238f85f91de11,8,,,,0,0,0,,,0,0,,,-,0,0,Marco Jansen,4.0,28.0,1.0,7.0,4.0,24.0,16.0,9.0,37.50,2.67,0.0,2.0,42.86,12.00,24.00,0.00,42.86,1811,2,15,Marco Jansen 
+2022-100mb00000000985-f5950061a44811,3,Arshdeep Singh,c Glenn Maxwell b Arshdeep Singh,c Glenn Maxwell b Arshdeep Singh,41,33,11,33.33,3.00,1,3,53.66,8.25,124.24,22,11,,,,,,,,,,,,,,,,,,,1811,1,77,Ayush Badoni 
+2022-100mb00000001541-e0ad58e954e911,9,,not out,not out,43,25,12,48.00,2.08,3,4,83.72,3.57,172.00,7,18,,,,,,,,,,,,,,,,,,,1811,2,15,Nehal Wadhera  (IP)
+2023-100mb00000002146-0271ce42f60911,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1811,2,15,Suryansh Shedge 
+2024-100mb00000003565-6cf0c233abda11,6,,,,0,0,0,,,0,0,,,-,0,0,Digvesh Singh,4.0,30.0,2.0,7.5,3.0,24.0,14.0,10.0,41.67,2.40,5.0,0.0,66.67,4.80,12.00,66.67,0.00,1811,1,77,Digvesh Singh 
+2024-100mb00000003571-3dc322afabdd11,3,Digvesh Singh,c Shardul Thakur b Digvesh Singh,c Shardul Thakur b Digvesh Singh,8,9,4,44.44,2.25,1,0,50.00,9.00,88.89,5,4,,,,,,,,,,,,,,,,,,,1811,2,15,Priyansh Arya 

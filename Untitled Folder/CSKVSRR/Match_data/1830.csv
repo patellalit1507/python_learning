@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000014-227bc550e99c11,10,,,,0,0,0,,,0,0,,,-,0,0,Kuldeep Yadav,4.0,33.0,1.0,8.25,6.0,24.0,17.0,7.0,29.17,3.43,2.0,2.0,60.61,6.00,24.00,24.24,36.36,1830,1,14,Kuldeep Yadav 
+2018-100mb00000000019-80e59e32e99c11,5,Jofra Archer,c Shimron Hetmyer b Jofra Archer,c Shimron Hetmyer b Jofra Archer,38,32,11,34.38,2.91,2,2,52.63,8.00,118.75,11,21,,,,,,,,,,,,,,,,,,,1830,1,14,K L Rahul (wk)
+2018-100mb00000000031-b334eaf6f08611,9,,,,0,0,0,,,0,0,,,-,0,0,Mitchell Starc,4.0,36.0,1.0,9.0,1.0,24.0,19.0,7.0,29.17,3.43,3.0,1.0,50.00,6.00,24.00,33.33,16.67,1830,1,14,Mitchell Starc 
+2019-100mb00000000100-f196053e43f611,11,,,,0,0,0,,,0,0,,,-,0,0,Mohit Sharma,4.0,38.0,0.0,9.5,3.0,24.0,20.0,5.0,20.83,4.80,2.0,2.0,52.63,6.00,0,21.05,31.58,1830,1,14,Mohit Sharma 
+2019-100mb00000000110-79ae08f5449411,1,Maheesh Theekshana,c Dhruv Jurel b Maheesh Theekshana,c Dhruv Jurel b Maheesh Theekshana,34,14,2,14.29,7.00,4,2,82.35,2.33,242.86,4,10,Axar Patel,3.0,23.0,1.0,7.67,5.0,18.0,9.0,9.0,50.00,2.00,3.0,1.0,78.26,4.50,18.00,52.17,26.09,1830,1,14,Axar Patel (c)
+2019-100mb00000000131-ce55104a449a11,4,Sandeep Sharma,run out (Sandeep Sharma),run out (Sandeep Sharma),0,3,3,100.00,1.00,0,0,,,0.00,3,0,,,,,,,,,,,,,,,,,,,1830,1,14,Karun Nair 
+2019-100mb00000000148-ef59629644a811,7,Mitchell Starc,lbw Mitchell Starc,lbw Mitchell Starc,51,28,5,17.86,5.60,6,2,70.59,3.50,182.14,11,17,,,,,,,,,,,,,,,,,,,1830,2,18,Nitish Rana 
+2019-100mb00000000181-80151ce844b611,1,,,,0,0,0,,,0,0,,,-,0,0,Jofra Archer,4.0,32.0,2.0,8.0,1.0,24.0,16.0,10.0,41.67,2.40,5.0,0.0,62.50,4.80,12.00,62.50,0.00,1830,2,18,Jofra Archer 
+2019-100mb00000000189-ac8c327a44b711,5,Axar Patel,b Axar Patel,b Axar Patel,8,11,7,63.64,1.57,1,0,50.00,11.00,72.73,0,11,Riyan Parag,1.0,6.0,0.0,6.0,6.0,6.0,5.0,1.0,16.67,6.00,0.0,0.0,0.00,0,0,0.00,0.00,1830,2,18,Riyan Parag 
+2019-100mb00000000190-c62cbae544b711,10,Vipraj Nigam,Retired Hurt,Retired Hurt,31,19,9,47.37,2.11,2,3,83.87,3.80,163.16,15,3,,,,,,,,,,,,,,,,,,,1830,2,18,Sanju Samson (c)
+2019-100mb00000000210-b8addb3444bb11,8,,not out,not out,15,9,0,0.00,,1,0,26.67,9.00,166.67,9,0,,,,,,,,,,,,,,,,,,,1830,2,18,Shimron Hetmyer 
+2019-100mb00000000220-18a6ceb644c011,6,,,,0,0,0,,,0,0,,,-,0,0,Sandeep Sharma,4.0,33.0,0.0,8.25,3.0,24.0,23.0,7.0,29.17,3.43,1.0,1.0,30.30,12.00,0,12.12,18.18,1830,2,18,Sandeep Sharma 
+2020-100mb00000000377-c8cec37e2dec11,3,,,,0,0,0,,,0,0,,,-,0,0,Wanindu Hasaranga,4.0,38.0,1.0,9.5,5.0,24.0,17.0,7.0,29.17,3.43,3.0,2.0,63.16,4.80,24.00,31.58,31.58,1830,2,18,Wanindu Hasaranga 
+2020-100mb00000000533-e895f279639811,9,Kuldeep Yadav,c Mitchell Starc b Kuldeep Yadav,c Mitchell Starc b Kuldeep Yadav,51,37,16,43.24,2.31,3,4,70.59,5.29,137.84,20,17,,,,,,,,,,,,,,,,,,,1830,2,18,Yashasvi Jaiswal 
+2020-100mb00000000539-04833b65639b11,4,,,,0,0,0,,,0,0,,,-,0,0,Tushar Deshpande,3.0,38.0,0.0,12.67,2.0,18.0,16.0,2.0,11.11,9.00,4.0,2.0,73.68,3.00,0,42.11,31.58,1830,2,18,Tushar Deshpande 
+2021-100mb00000000629-11c540100bd311,11,,,,0,0,0,,,0,0,,,-,0,0,Maheesh Theekshana,4.0,40.0,1.0,10.0,4.0,24.0,17.0,7.0,29.17,3.43,4.0,2.0,70.00,4.00,24.00,40.00,30.00,1830,2,18,Maheesh Theekshana  (RP)
+2022-100mb00000001004-da6e207ea44e11,11,Mitchell Starc,run out (Axar Patel),run out (Axar Patel),26,17,2,11.76,8.50,0,2,46.15,8.50,152.94,11,6,,,,,,,,,,,,,,,,,,,1830,2,18,Dhruv Jurel (wk)
+2022-100mb00000001017-3e376712cc7911,6,,not out,not out,34,18,2,11.11,9.00,2,2,58.82,4.50,188.89,11,7,Tristan Stubbs,1.0,12.0,0.0,12.0,7.0,6.0,4.0,2.0,33.33,3.00,1.0,1.0,83.33,3.00,0,33.33,50.00,1830,1,14,Tristan Stubbs 
+2022-100mb00000001462-cbc59298427c11,3,,,,0,0,0,,,0,0,,,-,0,0,Mukesh Kumar,3.0,31.0,0.0,10.33,2.0,18.0,13.0,5.0,27.78,3.60,1.0,3.0,70.97,4.50,0,12.90,58.06,1830,1,14,Mukesh Kumar  (IP)
+2022-100mb00000001580-2e206f715b5511,11,Wanindu Hasaranga,c Riyan Parag b Wanindu Hasaranga,c Riyan Parag b Wanindu Hasaranga,49,37,10,27.03,3.70,5,1,53.06,6.17,132.43,21,16,,,,,,,,,,,,,,,,,,,1830,1,14,Abishek Porel  (RP)
+2024-100mb00000003109-b7f98c40df9d11,7,,not out,not out,15,11,3,27.27,3.67,2,0,53.33,5.50,136.36,10,0,,,,,,,,,,,,,,,,,,,1830,1,14,Ashutosh Sharma 
+2024-100mb00000003112-76787b7ddf9f11,2,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1830,2,18,Shubham Dubey  (IP)
+2024-100mb00000003115-5afd8ccce29e11,2,Jofra Archer,c Yashasvi Jaiswal b Jofra Archer,c Yashasvi Jaiswal b Jofra Archer,9,6,3,50.00,2.00,2,0,88.89,3.00,150.00,6,0,,,,,,,,,,,,,,,,,,,1830,1,14,Jake Fraser - McGurk 
+2024-100mb00000003560-cd0dc81babd711,8,,,,0,0,0,,,0,0,,,-,0,0,Vipraj Nigam,1.0,13.0,0.0,13.0,4.0,6.0,4.0,3.0,50.00,2.00,1.0,1.0,76.92,3.00,0,30.77,46.15,1830,1,14,Vipraj Nigam 

@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000006-2cf4bba8e99b11,11,,not out,not out,76,45,13,28.89,3.46,4,6,68.42,4.50,168.89,21,24,,,,,,,,,,,,,,,,,,,1836,2,17,Rohit Sharma  (IP)
+2018-100mb00000000008-787fc4ece99b11,10,,,,0,0,0,,,0,0,,,-,0,0,Khaleel Ahmed,2.0,24.0,0.0,12.0,1.0,12.0,6.0,6.0,50.00,2.00,4.0,1.0,91.67,2.40,0,66.67,25.00,1836,1,13,Khaleel Ahmed 
+2018-100mb00000000009-92bfdfe9e99b11,10,,,,0,0,0,,,0,0,,,-,0,0,Jasprit Bumrah,4.0,25.0,2.0,6.25,5.0,24.0,16.0,9.0,37.50,2.67,3.0,0.0,48.00,8.00,12.00,48.00,0.00,1836,2,17,Jasprit Bumrah 
+2018-100mb00000000045-f658f1b6f88a11,6,,,,0,0,0,,,0,0,,,-,0,0,Ravichandran Ashwin,4.0,25.0,0.0,6.25,3.0,24.0,17.0,7.0,29.17,3.43,1.0,1.0,40.00,12.00,0,16.00,24.00,1836,1,13,Ravichandran Ashwin  (IP)
+2018-100mb00000000046-06b5ba89f88b11,5,,not out,not out,53,35,8,22.86,4.38,4,2,52.83,5.83,151.43,25,10,Ravindra Jadeja,3.0,28.0,1.0,9.33,4.0,18.0,12.0,6.0,33.33,3.00,2.0,2.0,71.43,4.50,18.00,28.57,42.86,1836,1,13,Ravindra Jadeja 
+2018-100mb00000000054-e3ebefa2050a11,1,,,,0,0,0,,,0,0,,,-,0,0,Hardik Pandya,2.0,13.0,0.0,6.5,7.0,12.0,8.0,4.0,33.33,3.00,0.0,1.0,46.15,12.00,0,0.00,46.15,1836,2,17,Hardik Pandya (c)
+2019-100mb00000000057-57100cf415ba11,1,Jasprit Bumrah,c N Tilak Varma b Jasprit Bumrah,c N Tilak Varma b Jasprit Bumrah,4,6,2,33.33,3.00,0,0,0.00,,66.67,4,2,,,,,,,,,,,,,,,,,,,1836,1,13,MS Dhoni (c)(wk)
+2019-100mb00000000061-6d68257c17f311,7,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1836,1,13,Vijay Shankar 
+2019-100mb00000000066-573f78a31e3711,9,,,,0,0,0,,,0,0,,,-,0,0,Trent Boult,4.0,43.0,0.0,10.75,2.0,24.0,18.0,7.0,29.17,3.43,3.0,2.0,55.81,4.80,0,27.91,27.91,1836,2,17,Trent Boult 
+2019-100mb00000000075-0984e17e1e4011,7,,,,0,0,0,,,0,0,,,-,0,0,Mitchell Santner,3.0,14.0,1.0,4.67,4.0,18.0,13.0,7.0,38.89,2.57,0.0,0.0,0.00,0,18.00,0.00,0.00,1836,2,17,Mitchell Santner 
+2019-100mb00000000091-8640595343ec11,8,,,,0,0,0,,,0,0,,,-,0,0,Deepak Chahar,4.0,32.0,1.0,8.0,1.0,24.0,15.0,11.0,45.83,2.18,4.0,0.0,50.00,6.00,24.00,50.00,0.00,1836,2,17,Deepak Chahar 
+2019-100mb00000000174-619a804244af11,4,,not out,not out,68,30,5,16.67,6.00,6,5,79.41,2.73,226.67,3,27,,,,,,,,,,,,,,,,,,,1836,2,17,Surya Kumar Yadav 
+2019-100mb00000000211-dc1f6a2544bb11,11,Jasprit Bumrah,c Will Jacks b Jasprit Bumrah,c Will Jacks b Jasprit Bumrah,50,32,10,31.25,3.20,2,4,64.00,5.33,156.25,29,3,,,,,,,,,,,,,,,,,,,1836,1,13,Shivam Dube  (RP)
+2021-100mb00000000724-7645abdd460011,3,Ashwani Kumar,c Ryan Rickelton b Ashwani Kumar,c Ryan Rickelton b Ashwani Kumar,5,9,6,66.67,1.50,0,0,0.00,,55.56,9,0,,,,,,,,,,,,,,,,,,,1836,1,13,Rachin Ravindra 
+2021-100mb00000000743-056fd8cd648611,2,Ravindra Jadeja,c Ayush Mhatre b Ravindra Jadeja,c Ayush Mhatre b Ravindra Jadeja,24,19,10,52.63,1.90,3,1,75.00,4.75,126.32,10,9,,,,,,,,,,,,,,,,,,,1836,2,17,Ryan Rickelton (wk)
+20212e70112c5d7811ec9c9202ea608,2,Mitchell Santner,st Ryan Rickelton b Mitchell Santner,st Ryan Rickelton b Mitchell Santner,19,20,9,45.00,2.22,1,0,21.05,20.00,95.00,14,6,,,,,,,,,,,,,,,,,,,1836,1,13,Shaik Rasheed 
+2022-100mb00000000975-56f6385ba44611,9,,,,0,0,0,,,0,0,,,-,0,0,Noor Ahmad,3.0,36.0,0.0,12.0,5.0,18.0,15.0,3.0,16.67,6.00,5.0,1.0,72.22,3.00,0,55.56,16.67,1836,1,13,Noor Ahmad 
+2022-100mb00000000993-60c58f9ea44c11,5,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1836,2,17,N Tilak Varma 
+2022-100mb00000001014-1f0cfb3dc17911,11,,,,0,0,0,,,0,0,,,-,0,0,Matheesha Pathirana,1.4,34.0,0.0,20.4,6.0,10.0,11.0,2.0,20.00,5.00,1.0,4.0,82.35,2.00,0,11.76,70.59,1836,1,13,Matheesha Pathirana 
+2022-100mb00000001216-7c5947a7f6b111,8,,not out,not out,4,3,2,66.67,1.50,1,0,100.00,3.00,133.33,3,0,Jamie Overton,2.0,29.0,0.0,14.5,2.0,12.0,13.0,4.0,33.33,3.00,0.0,3.0,62.07,4.00,0,0.00,62.07,1836,1,13,Jamie Overton 
+2023-100mb00000001941-9401571cc40411,3,,,,0,0,0,,,0,0,,,-,0,0,Will Jacks,1.0,4.0,0.0,4.0,6.0,6.0,3.0,3.0,50.00,2.00,0.0,0.0,0.00,0,0,0.00,0.00,1836,2,17,Will Jacks 
+2024-100mb00000003107-805cae57df9b11,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1836,2,17,Naman Dhir 
+2024-100mb00000003497-dc521b85a24811,4,Deepak Chahar,c Mitchell Santner b Deepak Chahar,c Mitchell Santner b Deepak Chahar,32,15,5,33.33,3.00,4,2,87.50,2.50,213.33,12,3,,,,,,,,,,,,,,,,,,,1836,1,13,Ayush Mhatre 
+2024-100mb00000003569-45ffd8bdabdc11,11,,,,0,0,0,,,0,0,,,-,0,0,Ashwani Kumar,2.0,42.0,1.0,21.0,3.0,12.0,11.0,1.0,8.33,12.00,2.0,5.0,90.48,1.71,12.00,19.05,71.43,1836,2,17,Ashwani Kumar  (RP)

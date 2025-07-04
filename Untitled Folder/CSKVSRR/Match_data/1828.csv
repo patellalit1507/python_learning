@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000008-787fc4ece99b11,10,,,,0,0,0,,,0,0,,,-,0,0,Khaleel Ahmed,4.0,38.0,1.0,9.5,1.0,24.0,12.0,12.0,50.00,2.00,3.0,3.0,78.95,4.00,24.00,31.58,47.37,1828,2,13,Khaleel Ahmed 
+2018-100mb00000000018-6e65e6f7e99c11,1,Matheesha Pathirana,c MS Dhoni b Matheesha Pathirana,c MS Dhoni b Matheesha Pathirana,63,49,21,42.86,2.33,4,4,63.49,6.13,128.57,26,23,,,,,,,,,,,,,,,,,,,1828,1,77,Rishabh Pant (c)(wk)
+2018-100mb00000000040-7f15f6c7f88a11,11,Ravindra Jadeja,b Ravindra Jadeja,b Ravindra Jadeja,30,25,11,44.00,2.27,2,2,66.67,6.25,120.00,18,7,,,,,,,,,,,,,,,,,,,1828,1,77,Mitchell Marsh  (RP)
+2018-100mb00000000046-06b5ba89f88b11,5,Ravi Bishnoi,c Aiden Markram b Ravi Bishnoi,c Aiden Markram b Ravi Bishnoi,7,11,4,36.36,2.75,0,0,0.00,,63.64,0,11,Ravindra Jadeja,3.0,24.0,2.0,8.0,4.0,18.0,12.0,6.0,33.33,3.00,4.0,0.0,66.67,4.50,9.00,66.67,0.00,1828,2,13,Ravindra Jadeja 
+2019-100mb00000000057-57100cf415ba11,1,,not out,not out,26,11,2,18.18,5.50,4,1,84.62,2.20,236.36,11,0,,,,,,,,,,,,,,,,,,,1828,2,13,MS Dhoni (c)(wk)
+2019-100mb00000000061-6d68257c17f311,6,Digvesh Singh,c Avesh Khan b Digvesh Singh,c Avesh Khan b Digvesh Singh,9,8,2,25.00,4.00,1,0,44.44,8.00,112.50,0,8,,,,,,,,,,,,,,,,,,,1828,2,13,Vijay Shankar 
+2019-100mb00000000105-4c526de743fe11,9,Matheesha Pathirana,c Shaik Rasheed b Matheesha Pathirana,c Shaik Rasheed b Matheesha Pathirana,6,4,2,50.00,2.00,1,0,66.67,4.00,150.00,4,0,Shardul Thakur,4.0,56.0,0.0,14.0,1.0,24.0,21.0,7.0,29.17,3.43,8.0,2.0,78.57,2.40,0,57.14,21.43,1828,1,77,Shardul Thakur 
+2019-100mb00000000109-5cc123ab449411,11,,,,0,0,0,,,0,0,,,-,0,0,Avesh Khan,3.3,32.0,1.0,9.14,4.0,21.0,16.0,6.0,28.57,3.50,5.0,0.0,62.50,4.20,21.00,62.50,0.00,1828,1,77,Avesh Khan 
+2019-100mb00000000128-e95bebea449911,7,,not out,not out,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1828,1,77,David Miller 
+2019-100mb00000000136-9313d156449c11,2,Anshul Kamboj,lbw Anshul Kamboj,lbw Anshul Kamboj,8,9,7,77.78,1.29,2,0,100.00,4.50,88.89,9,0,,,,,,,,,,,,,,,,,,,1828,1,77,Nicholas Pooran 
+2019-100mb00000000188-896b509b44b711,4,Ravi Bishnoi,c & b Ravi Bishnoi,c & b Ravi Bishnoi,9,10,4,40.00,2.50,1,0,44.44,10.00,90.00,1,9,,,,,,,,,,,,,,,,,,,1828,2,13,Rahul Tripathi 
+2019-100mb00000000211-dc1f6a2544bb11,11,,not out,not out,43,37,14,37.84,2.64,3,2,55.81,7.40,116.22,16,20,,,,,,,,,,,,,,,,,,,1828,2,13,Shivam Dube  (IP)
+2019-100mb00000000287-ca1a6bb17ae311,4,Khaleel Ahmed,c Rahul Tripathi b Khaleel Ahmed,c Rahul Tripathi b Khaleel Ahmed,6,6,4,66.67,1.50,1,0,66.67,6.00,100.00,6,0,Aiden Markram,4.0,25.0,1.0,6.25,6.0,24.0,18.0,6.0,25.00,4.00,0.0,1.0,24.00,24.00,24.00,0.00,24.00,1828,1,77,Aiden Markram 
+2020-100mb00000000520-c2b1e0df638711,5,,,,0,0,0,,,0,0,,,-,0,0,Ravi Bishnoi,3.0,18.0,2.0,6.0,5.0,18.0,11.0,9.0,50.00,2.00,2.0,0.0,44.44,9.00,9.00,44.44,0.00,1828,1,77,Ravi Bishnoi  (IP)
+2020-100mb00000000525-4d2e1ac6639511,8,Matheesha Pathirana,run out (MS Dhoni),run out (MS Dhoni),20,11,2,18.18,5.50,0,2,60.00,5.50,181.82,8,3,,,,,,,,,,,,,,,,,,,1828,1,77,Abdul Samad 
+2021-100mb00000000724-7645abdd460011,3,Aiden Markram,lbw Aiden Markram,lbw Aiden Markram,37,22,4,18.18,5.50,5,0,54.05,4.40,168.18,9,13,,,,,,,,,,,,,,,,,,,1828,2,13,Rachin Ravindra 
+20212e70112c5d7811ec9c9202ea608,2,Avesh Khan,c Nicholas Pooran b Avesh Khan,c Nicholas Pooran b Avesh Khan,27,19,10,52.63,1.90,6,0,88.89,3.17,142.11,14,5,,,,,,,,,,,,,,,,,,,1828,2,13,Shaik Rasheed 
+2022-100mb00000000975-56f6385ba44611,9,,,,0,0,0,,,0,0,,,-,0,0,Noor Ahmad,4.0,13.0,0.0,3.25,5.0,24.0,12.0,13.0,54.17,1.85,0.0,0.0,0.00,0,0,0.00,0.00,1828,2,13,Noor Ahmad 
+2022-100mb00000000985-f5950061a44811,3,Ravindra Jadeja,st MS Dhoni b Ravindra Jadeja,st MS Dhoni b Ravindra Jadeja,22,17,8,47.06,2.13,1,2,72.73,5.67,129.41,7,9,,,,,,,,,,,,,,,,,,,1828,1,77,Ayush Badoni 
+2022-100mb00000001007-1363a306a45011,10,,,,0,0,0,,,0,0,,,-,0,0,Akash Deep,1.0,13.0,0.0,13.0,2.0,6.0,4.0,2.0,33.33,3.00,3.0,0.0,92.31,2.00,0,92.31,0.00,1828,1,77,Akash Deep 
+2022-100mb00000001014-1f0cfb3dc17911,11,,,,0,0,0,,,0,0,,,-,0,0,Matheesha Pathirana,4.0,45.0,2.0,11.25,6.0,24.0,21.0,10.0,41.67,2.40,2.0,3.0,57.78,4.80,12.00,17.78,40.00,1828,2,13,Matheesha Pathirana  (RP)
+2022-100mb00000001216-7c5947a7f6b111,7,,,,0,0,0,,,0,0,,,-,0,0,Jamie Overton,2.0,24.0,0.0,12.0,3.0,12.0,8.0,4.0,33.33,3.00,0.0,3.0,75.00,4.00,0,0.00,75.00,1828,2,13,Jamie Overton 
+2024-100mb00000003106-047b3989df9b11,8,,,,0,0,0,,,0,0,,,-,0,0,Anshul Kamboj,3.0,20.0,1.0,6.67,2.0,18.0,9.0,9.0,50.00,2.00,2.0,1.0,70.00,6.00,18.00,40.00,30.00,1828,2,13,Anshul Kamboj 
+2024-100mb00000003565-6cf0c233abda11,6,,,,0,0,0,,,0,0,,,-,0,0,Digvesh Singh,4.0,23.0,1.0,5.75,3.0,24.0,16.0,10.0,41.67,2.40,2.0,0.0,34.78,12.00,24.00,34.78,0.00,1828,1,77,Digvesh Singh 

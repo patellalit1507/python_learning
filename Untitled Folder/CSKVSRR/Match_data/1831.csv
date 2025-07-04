@@ -1,0 +1,25 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000006-2cf4bba8e99b11,11,Pat Cummins,c Travis Head b Pat Cummins,c Travis Head b Pat Cummins,26,16,7,43.75,2.29,0,3,69.23,5.33,162.50,16,0,,,,,,,,,,,,,,,,,,,1831,2,17,Rohit Sharma  (IP)
+2018-100mb00000000009-92bfdfe9e99b11,10,,,,0,0,0,,,0,0,,,-,0,0,Jasprit Bumrah,4.0,21.0,1.0,5.25,3.0,24.0,17.0,8.0,33.33,3.00,1.0,0.0,19.05,24.00,24.00,19.05,0.00,1831,2,17,Jasprit Bumrah 
+2018-100mb00000000033-d93110bbf88911,1,,not out,not out,8,4,1,25.00,4.00,0,1,75.00,4.00,200.00,4,0,Pat Cummins,4.0,26.0,3.0,6.5,2.0,24.0,12.0,13.0,54.17,1.85,3.0,1.0,69.23,6.00,8.00,46.15,23.08,1831,1,20,Pat Cummins (c)
+2018-100mb00000000037-4e250de6f88a11,2,Will Jacks,c Mitchell Santner b Will Jacks,c Mitchell Santner b Will Jacks,28,29,10,34.48,2.90,3,0,42.86,9.67,96.55,20,8,,,,,,,,,,,,,,,,,,,1831,1,20,Travis Head 
+2018-100mb00000000047-1bfc8ff2f88b11,11,,,,0,0,0,,,0,0,,,-,0,0,Mohammad Shami,3.0,28.0,0.0,9.33,1.0,18.0,11.0,7.0,38.89,2.57,1.0,2.0,57.14,6.00,0,14.29,42.86,1831,1,20,Mohammad Shami  (RP)
+2018-100mb00000000054-e3ebefa2050a11,1,Eshan Malinga,c Ishan Kishan b Eshan Malinga,c Ishan Kishan b Eshan Malinga,21,9,2,22.22,4.50,3,1,85.71,2.25,233.33,9,0,Hardik Pandya,4.0,42.0,1.0,10.5,5.0,24.0,20.0,6.0,25.00,4.00,2.0,3.0,61.90,4.80,24.00,19.05,42.86,1831,2,17,Hardik Pandya (c)
+2019-100mb00000000066-573f78a31e3711,9,,,,0,0,0,,,0,0,,,-,0,0,Trent Boult,4.0,29.0,1.0,7.25,2.0,24.0,20.0,6.0,25.00,4.00,3.0,0.0,41.38,8.00,24.00,41.38,0.00,1831,2,17,Trent Boult 
+2019-100mb00000000075-0984e17e1e4011,7,,not out,not out,0,1,1,100.00,1.00,0,0,,,0.00,1,0,Mitchell Santner,1.0,8.0,0.0,8.0,6.0,6.0,5.0,1.0,16.67,6.00,1.0,0.0,50.00,6.00,0,50.00,0.00,1831,2,17,Mitchell Santner 
+2019-100mb00000000091-8640595343ec11,8,,,,0,0,0,,,0,0,,,-,0,0,Deepak Chahar,4.0,47.0,0.0,11.75,1.0,24.0,17.0,9.0,37.50,2.67,6.0,2.0,76.60,3.00,0,51.06,25.53,1831,2,17,Deepak Chahar 
+2019-100mb00000000098-7a8c366b43f611,11,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1831,2,17,Karn Sharma  (RP)
+2019-100mb00000000114-8c98068c449611,8,,,,0,0,0,,,0,0,,,-,0,0,Harshal Patel,3.0,31.0,1.0,10.33,5.0,18.0,16.0,2.0,11.11,9.00,3.0,1.0,58.06,4.50,18.00,38.71,19.35,1831,1,20,Harshal Patel 
+2019-100mb00000000164-8ae075db44ad11,4,Will Jacks,st Ryan Rickelton b Will Jacks,st Ryan Rickelton b Will Jacks,2,3,1,33.33,3.00,0,0,0.00,,66.67,1,2,,,,,,,,,,,,,,,,,,,1831,1,20,Ishan Kishan 
+2019-100mb00000000171-b2aa538f44ae11,9,,,,0,0,0,,,0,0,,,-,0,0,Rahul Chahar,1.0,9.0,0.0,9.0,6.0,6.0,4.0,2.0,33.33,3.00,0.0,1.0,66.67,6.00,0,0.00,66.67,1831,1,20,Rahul Chahar  (IP)
+2019-100mb00000000174-619a804244af11,4,Pat Cummins,c Zeeshan Ansari b Pat Cummins,c Zeeshan Ansari b Pat Cummins,26,15,6,40.00,2.50,2,2,76.92,3.75,173.33,8,7,,,,,,,,,,,,,,,,,,,1831,2,17,Surya Kumar Yadav 
+2019-100mb00000000202-438eed6944ba11,6,Jasprit Bumrah,b Jasprit Bumrah,b Jasprit Bumrah,37,28,11,39.29,2.55,3,2,64.86,5.60,132.14,20,8,,,,,,,,,,,,,,,,,,,1831,1,20,Heinrich Klaasen (wk)
+2019-100mb00000000212-9df3a24d44bc11,3,Hardik Pandya,c (Sub) Raj Angad Bawa b Hardik Pandya,c (Sub) Raj Angad Bawa b Hardik Pandya,40,28,11,39.29,2.55,7,0,70.00,4.00,142.86,26,2,,,,,,,,,,,,,,,,,,,1831,1,20,Abhishek Sharma 
+2021-100mb00000000743-056fd8cd648611,2,Harshal Patel,c Travis Head b Harshal Patel,c Travis Head b Harshal Patel,31,23,9,39.13,2.56,5,0,64.52,4.60,134.78,18,4,,,,,,,,,,,,,,,,,,,1831,2,17,Ryan Rickelton (wk)
+2022-100mb00000000993-60c58f9ea44c11,5,,not out,not out,21,17,3,17.65,5.67,2,0,38.10,8.50,123.53,16,1,,,,,,,,,,,,,,,,,,,1831,2,17,N Tilak Varma 
+2023-100mb00000001941-9401571cc40411,3,Pat Cummins,c Zeeshan Ansari b Pat Cummins,c Zeeshan Ansari b Pat Cummins,36,26,9,34.62,2.89,3,2,66.67,5.20,138.46,13,13,Will Jacks,3.0,14.0,2.0,4.67,4.0,18.0,11.0,9.0,50.00,2.00,1.0,0.0,28.57,18.00,9.00,28.57,0.00,1831,2,17,Will Jacks 
+2023-100mb00000001944-c9a4b0e8c40511,5,Trent Boult,c N Tilak Varma b Trent Boult,c N Tilak Varma b Trent Boult,19,21,5,23.81,4.20,1,0,21.05,21.00,90.48,17,4,,,,,,,,,,,,,,,,,,,1831,1,20,Nitish Kumar Reddy 
+2024-100mb00000003107-805cae57df9b11,6,Eshan Malinga,lbw Eshan Malinga,lbw Eshan Malinga,0,3,3,100.00,1.00,0,0,,,0.00,3,0,,,,,,,,,,,,,,,,,,,1831,2,17,Naman Dhir 
+2024-100mb00000003339-537276b84ff411,11,,,,0,0,0,,,0,0,,,-,0,0,Eshan Malinga,4.0,36.0,2.0,9.0,3.0,24.0,18.0,7.0,29.17,3.43,6.0,0.0,66.67,4.00,12.00,66.67,0.00,1831,1,20,Eshan Malinga 
+2024-100mb00000003575-83bb5544abdf11,10,,,,0,0,0,,,0,0,,,-,0,0,Zeeshan Ansari,3.1,35.0,0.0,11.05,4.0,19.0,13.0,8.0,42.11,2.38,2.0,3.0,74.29,3.80,0,22.86,51.43,1831,1,20,Zeeshan Ansari 
+2024-100mb00000003576-caeb1dadabdf11,7,,not out,not out,18,8,1,12.50,8.00,0,2,66.67,4.00,225.00,8,0,,,,,,,,,,,,,,,,,,,1831,1,20,Aniket Verma 

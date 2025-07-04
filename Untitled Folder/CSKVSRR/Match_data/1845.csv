@@ -1,0 +1,24 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000020-9223b16ce99c11,5,Sandeep Sharma,c Shimron Hetmyer b Sandeep Sharma,c Shimron Hetmyer b Sandeep Sharma,13,8,2,25.00,4.00,0,1,46.15,8.00,162.50,7,1,Washington Sundar,1.5,34.0,0.0,18.55,3.0,11.0,10.0,1.0,9.09,11.00,3.0,3.0,88.24,1.83,0,35.29,52.94,1845,1,35,Washington Sundar 
+2018-100mb00000000050-4663b710f88b11,1,,,,0,0,0,,,0,0,,,-,0,0,Ishant Sharma,2.0,36.0,0.0,18.0,2.0,12.0,10.0,4.0,33.33,3.00,2.0,4.0,88.89,2.00,0,22.22,66.67,1845,1,35,Ishant Sharma  (IP)
+2019-100mb00000000062-8fa4884a17f311,11,Maheesh Theekshana,c Riyan Parag b Maheesh Theekshana,c Riyan Parag b Maheesh Theekshana,84,50,9,18.00,5.56,5,4,52.38,5.56,168.00,25,25,,,,,,,,,,,,,,,,,,,1845,1,35,Shubman Gill  (RP)
+2019-100mb00000000063-d9aa7a01187311,10,,,,0,0,0,,,0,0,,,-,0,0,Mohammed Siraj,2.0,24.0,0.0,12.0,1.0,12.0,10.0,4.0,33.33,3.00,3.0,1.0,75.00,3.00,0,50.00,25.00,1845,1,35,Mohammed Siraj 
+2019-100mb00000000120-7489ddcc449711,6,Jofra Archer,lbw Jofra Archer,lbw Jofra Archer,9,4,1,25.00,4.00,0,1,66.67,4.00,225.00,4,0,,,,,,,,,,,,,,,,,,,1845,1,35,Rahul Tewatia 
+2019-100mb00000000148-ef59629644a811,4,Rashid Khan,lbw Rashid Khan,lbw Rashid Khan,4,2,1,50.00,2.00,1,0,100.00,2.00,200.00,1,1,,,,,,,,,,,,,,,,,,,1845,2,18,Nitish Rana 
+2019-100mb00000000150-3a51ee2844a911,11,,,,0,0,0,,,0,0,,,-,0,0,Prasidh Krishna,4.0,47.0,1.0,11.75,4.0,24.0,17.0,7.0,29.17,3.43,5.0,2.0,68.09,3.43,24.00,42.55,25.53,1845,1,35,Prasidh Krishna 
+2019-100mb00000000181-80151ce844b611,8,,,,0,0,0,,,0,0,,,-,0,0,Jofra Archer,4.0,49.0,1.0,12.25,1.0,24.0,18.0,6.0,25.00,4.00,5.0,3.0,77.55,3.00,24.00,40.82,36.73,1845,2,18,Jofra Archer 
+2019-100mb00000000182-b78f12ef44b611,3,,not out,not out,50,26,6,23.08,4.33,3,4,72.00,3.71,192.31,12,14,,,,,,,,,,,,,,,,,,,1845,1,35,Jos Buttler (wk)
+2019-100mb00000000189-ac8c327a44b711,1,,not out,not out,32,15,3,20.00,5.00,2,2,62.50,3.75,213.33,5,10,Riyan Parag,1.0,14.0,0.0,14.0,5.0,6.0,6.0,0.0,0.00,0,0.0,1.0,42.86,6.00,0,0.00,42.86,1845,2,18,Riyan Parag (c)
+2019-100mb00000000210-b8addb3444bb11,6,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1845,2,18,Shimron Hetmyer 
+2019-100mb00000000218-42d9d6f544bf11,8,,,,0,0,0,,,0,0,,,-,0,0,Rashid Khan,4.0,24.0,1.0,6.0,5.0,24.0,14.0,10.0,41.67,2.40,1.0,1.0,41.67,12.00,24.00,16.67,25.00,1845,1,35,Rashid Khan (c)
+2019-100mb00000000220-18a6ceb644c011,10,,,,0,0,0,,,0,0,,,-,0,0,Sandeep Sharma,4.0,33.0,1.0,8.25,4.0,24.0,21.0,7.0,29.17,3.43,1.0,1.0,30.30,12.00,24.00,12.12,18.18,1845,2,18,Sandeep Sharma 
+2019-100mb00000000247-c39fe4817ab811,7,,,,0,0,0,,,0,0,,,-,0,0,Karim Janat,1.0,30.0,0.0,30.0,6.0,6.0,6.0,0.0,0.00,0,3.0,3.0,100.00,1.00,0,40.00,60.00,1845,1,35,Karim Janat 
+2020-100mb00000000377-c8cec37e2dec11,7,,,,0,0,0,,,0,0,,,-,0,0,Wanindu Hasaranga,4.0,39.0,0.0,9.75,6.0,24.0,20.0,5.0,20.83,4.80,1.0,3.0,56.41,6.00,0,10.26,46.15,1845,2,18,Wanindu Hasaranga 
+2020-100mb00000000533-e895f279639811,2,,not out,not out,70,40,11,27.50,3.64,9,2,68.57,3.64,175.00,23,17,,,,,,,,,,,,,,,,,,,1845,2,18,Yashasvi Jaiswal 
+2020-100mb00000000544-980117aa639c11,9,,,,0,0,0,,,0,0,,,-,0,0,Sai Kishore,1.0,16.0,0.0,16.0,7.0,6.0,4.0,2.0,33.33,3.00,2.0,1.0,87.50,2.00,0,50.00,37.50,1845,1,35,Sai Kishore 
+2021-100mb00000000587-d15a3db891de11,11,,,,0,0,0,,,0,0,,,-,0,0,Yudhvir Singh Charak,3.0,38.0,0.0,12.67,3.0,18.0,12.0,6.0,33.33,3.00,3.0,3.0,78.95,3.00,0,31.58,47.37,1845,2,18,Yudhvir Singh Charak 
+2021-100mb00000000590-85eaa6f291e011,4,,not out,not out,5,2,0,0.00,,1,0,80.00,2.00,250.00,2,0,,,,,,,,,,,,,,,,,,,1845,1,35,Shahrukh Khan 
+2021-100mb00000000629-11c540100bd311,9,,,,0,0,0,,,0,0,,,-,0,0,Maheesh Theekshana,4.0,35.0,2.0,8.75,2.0,24.0,23.0,4.0,16.67,6.00,3.0,0.0,34.29,8.00,12.00,34.29,0.00,1845,2,18,Maheesh Theekshana 
+2022-100mb00000000976-79aa33cca44611,2,Maheesh Theekshana,c Riyan Parag b Maheesh Theekshana,c Riyan Parag b Maheesh Theekshana,39,30,10,33.33,3.00,4,1,56.41,6.00,130.00,16,14,,,,,,,,,,,,,,,,,,,1845,1,35,Sai Sudharsan 
+2022-100mb00000001004-da6e207ea44e11,5,,,,0,0,0,,,0,0,,,-,0,0,,,,,,,,,,,,,,,,,,,1845,2,18,Dhruv Jurel (wk)
+2024-100mb00000003498-c9c3dc7da24b11,3,Prasidh Krishna,b Prasidh Krishna,b Prasidh Krishna,101,38,13,34.21,2.92,7,11,93.07,2.11,265.79,25,13,,,,,,,,,,,,,,,,,,,1845,2,18,Vaibhav Suryavanshi 

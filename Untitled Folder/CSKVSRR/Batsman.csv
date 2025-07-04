@@ -55,8 +55,8 @@ Id,Player_Name,Team,Credit_Point,Role,Speciality
 54,Nicholas Pooran,LSG,9,WK,
 55,Kusal Mendis,GT,7,Wk,
 56,Rishabh Pant,LSG,6.5,WK,
-57,Mithcell Marsh,LSG,9,BAT,Right-arm medium
-58,Mithcell Santner,MI,7,BAT,
+57,Mitchell Marsh,LSG,9,BAT,Right-arm medium
+58,Mitchell Santner,MI,7,BAT,
 59,Sai Sudharsan,GT,9,BAT,Leg break
 60,Shubman Gill,GT,9,BAT,Off break
 61,Ayush Badoni,LSG,8,BAT,Off break
@@ -76,9 +76,9 @@ Id,Player_Name,Team,Credit_Point,Role,Speciality
 75,Rashid Khan,GT,8,BOWL,Leg Break Googly
 76,Avesh Khan,LSG,7.5,BOWL,Right-arm fast medium
 77,Kagiso Rabada,GT,7.5,BOWL,Right-arm fast
-78,Ravi Bisnoi,LSG,7.5,BOWL,Leg break googly
-79,Ravisrinivasan Sai Kishore,GT,7.5,BOWL,Slow left-arm orthodox
-80,Shradul Thakur,LSG,7.5,BOWL,Right-arm medium fast
+78,Ravi Bishnoi,LSG,7.5,BOWL,Leg break googly
+79,Sai Kishore,GT,7.5,BOWL,Slow left-arm orthodox
+80,Shardul Thakur,LSG,7.5,BOWL,Right-arm medium fast
 81,Ishant Sharma,GT,7,BOWL,Right-arm fast medium
 82,William O'Rourke,LSG,7,BOWL,Right-arm fast
 83,Akash Deep,LSG,6.5,BOWL,Right-arm fast medium
@@ -87,3 +87,79 @@ Id,Player_Name,Team,Credit_Point,Role,Speciality
 86,Manimaran Siddharth,LSG,6,BOWL,Slow left-arm orthodox
 87,Prince Yadav,LSG,6,BOWL,Right-arm fast
 88,Akash Singh,LSG,5.6,BOWL,Left-arm medium fast
+89,Ruturaj Gaikwad,CSK,7.5,BAT,Off break
+90,Jamie Overton,CSK,7,BAT,Off break
+91,Mitchell Starc,DC,8,BOWL,Right-arm fast
+92,Jacob Bethell,RCB,6.5,BAT,
+93,Virat Kohli,RCB,9,BAT,
+94,Rajat Patidar,RCB,8,BAT,
+95,Jitesh Sharma,RCB,7.5,WK,
+96,Tim David,RCB,7.5,BAT,
+97,Romario Shepherd,RCB,7,AR,Right-arm fast medium
+98,Krunal Pandya,RCB,8,AR,Slow Left-arm orthodox
+99,Bhuvneshwar Kumar,RCB,8,BOWL,Right-arm medium fast
+100,Lungisani Ngidi,RCB,6.5,BOWL,Right-arm fast medium
+101,Yash Dayal,RCB,7.5,BOWL,Left-arm medium fast
+102,Suyash Sharma,RCB,6.5,BOWL,Leg break googly
+103,Josh Hazlewood,RCB,8.5,BOWL,Right-arm fast medium
+104,Phil Salt,RCB,8.5,WK,
+105,Mayank Agarwal,RCB,6.5,BAT,
+106,Liam Livingstone,RCB,6.5,AR,Leg-break
+107,Atharva Taide,SRH,5.5,BAT,
+108,Abhishek Sharma,SRH,9,AR,Slow left-arm orthodox
+109,Ishan Kishan,SRH,7.5,WK,
+110,Heinrich Klaasen,SRH,9,WK,
+111,Kamindu Mendis,SRH,7,AR,Slow left-arm orthodox
+112,Aniket Verma,SRH,7,BAT,
+113,Nitish Kumar Reddy,SRH,7,BAT,
+114,Pat Cummins,SRH,8.5,BOWL,Right-arm fast
+115,Harshal Patel,SRH,8.5,BOWL,Right-arm medium
+116,Harsh Dubey,SRH,5,AR,Slow left-arm orthodox
+117,Zeeshan Ansari,SRH,6.5,BOWL,Left break googly
+118,Eshan Malinga,SRH,7,BOWL,Right-arm fast medium
+119,Travis Head,SRH,8.5,BAT,
+120,Mohammad Shami,SRH,7.5,BOWL,Right-arm fast
+121,Jaydev Unadkat,SRH,6.5,BOWL,Left-arm medium
+122,Wiaan Mulder,SRH,6.5,AR,Right-arm mediu
+123,Devdutt Padikkal,RCB,8,BAT,
+124,Abhinav Manohar,SRH,6,BAT,
+125,Manoj Bhandage,RCB,6,AR,Right-arm medium fast
+126,Madhav Tiwari,DC,5,AR,
+127,Nitish Rana,RR,7,BAT,
+128,Deepak Hooda,CSK,
+129,Aiden Markram,LSG,9,AR,
+130,Mohit Sharma,DC,7,BOWL,Right-arm medium fast
+131,Jofra Archer,RR,8.5,BOWL,Right-arm fast
+132,Jake Fraser - McGurk,DC,7,BAT,
+133,Karun Nair,DC,7.5,BAT,
+134,Digvesh Singh,LSG,5,BOWL,Right-arm leg break
+135,Rachin Ravindra,CSK,7.5,BAT,
+136,Shaik Rasheed,CSK,6.5,BAT,
+137,Robin Minz,MI,6,BAT,
+138,Donovan Ferreira,DC,6,WK,
+139,Sandeep Sharma,RR,7,BOWL,Right-arm medium
+140,Rahul Tripathi,CSK,7,BAT,
+141,Mohd Arshad Khan,GT,7,BOWL,Left-arem medium
+142,Vijay Shankar,CSK,6,AR,Right-arm medium
+143,Mukesh Choudhary,CSK,5,BOWL,Left-arm medium
+144,William O Rourke,LSG,7,BOWL,Right-arm fast
+145,Mujeeb-ur-Rahman,MI,6,BOWL,Right-arm off break
+146,M Siddharth,LSG,6,BOWL,Left-arm orthodox
+147,Nathan Ellis,CSK,6,BOWL,Right-arm fast medium
+148,Rasikh Dar,RCB,6,BOWL,Right-arm fast medium
+149,Vignesh Puthur,MI,7,AR,Left-arm wrist spin
+150,Prabhsimran Singh,PBKS,8.5,WK,
+151,Shreyas Iyer,PBKS,9.0,BAT,
+152,Priyansh Arya,PBKS,8.5,BAT,
+153,Nehal Wadhera,PBKS,7.5,BAT,
+154,Shashank Singh,PBKS,7.0,BAT,
+155,Josh Inglis,PBKS,7.0,WK,
+156,Marcus Stoinis,PBKS,7.0,AR,Left-arm medium
+157,Marco Jansen,PBKS,8.0,AR,Left-arm fast
+158,Azmatullah Omarzai,PBKS,6.5,Right-arm medium fast
+159,Xavier Bartlett,PBKS,6.5,BOWL,Right-arm medium
+160,Suryansh Shedge,PBKS,5.5,BAT,
+161,Arshdeep Singh,PBKS,9.0,BOWL,Left-arm medium fast
+162,Yuzvendra Chahal,PBKS,8.5,BOWL,Leg break googly
+163,Harpreet Brar,PBKS,6,BOWL,Slow left-arm orthodox
+164,Yash Thakur,PBKS,6,BOWL,Right-arm fast medium

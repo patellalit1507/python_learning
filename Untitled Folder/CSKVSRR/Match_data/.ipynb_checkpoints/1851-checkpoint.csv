@@ -1,0 +1,37 @@
+PlayerID,MatchPlayingOrder,BowlerName,OutDesc,ShortOutDesc,Runs,Balls,DotBalls,DotBallPercentage_Bat,DotBallFrequency_Bat,Fours_Bat,Sixes_Bat,BoundaryPercentage_Bat,BoundaryFrequency_Bat,StrikeRate_Bat,AgainstFast_Bat,AgainstSpin_Bat,PlayerShortName,Overs,Runs_bat,Wickets,Economy_bowl,BowlingOrder,TotalLegalBallsBowled,ScoringBalls,DotBalls_bowl,DBPercent _bowl,DBFrequency,Fours_bowl,Sixes_bowl,BdryPercent_bowl,BdryFreq_bowl,StrikeRate,FourPercent_bowl,SixPercent_bowl,MatchID,InningsNo,TeamID,PlayerName
+2018-100mb00000000044-e03a43dbf88a11,1.0,Riyan Parag,c Dhruv Jurel b Riyan Parag,c Dhruv Jurel b Riyan Parag,30.0,24.0,8.0,33.33,3.00,1.0,2.0,53.33,8.00,125.00,6.0,18.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Ajinkya Rahane (c)
+2019-100mb00000000062-8fa4884a17f311,1.0,Avesh Khan,c Abdul Samad b Avesh Khan,c Abdul Samad b Avesh Khan,35.0,20.0,7.0,35.00,2.86,7.0,0.0,80.00,2.86,175.00,15.0,5.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Shubman Gill (c)
+2019-100mb00000000063-d9aa7a01187311,10.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Mohammed Siraj 
+2019-100mb00000000109-5cc123ab449411,,,,,,,,,,,,,,,,,Avesh Khan,3.5,51.0,2.0,13.3,4.0,23.0,19.0,4.0,17.39,5.75,5.0,3.0,74.51,2.88,11.50,39.22,35.29,1862.0,2.0,77.0,Avesh Khan
+2019-100mb00000000116-dbd48930449611,8.0,Ayush Badoni,b Ayush Badoni,b Ayush Badoni,2.0,3.0,1.0,33.33,3.00,0.0,0.0,0.00,,66.67,1.0,2.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Kagiso Rabada 
+2019-100mb00000000120-7489ddcc449711,5.0,William O Rourke,c Himmat Singh b William O Rourke,c Himmat Singh b William O Rourke,2.0,3.0,1.0,33.33,3.00,0.0,0.0,0.00,,66.67,3.0,0.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Rahul Tewatia 
+2019-100mb00000000122-ba35f672449711,3.0,William O Rourke,c (Sub) Ravi Bishnoi b William O Rourke,c (Sub) Ravi Bishnoi b William O Rourke,38.0,22.0,5.0,22.73,4.40,1.0,3.0,57.89,5.50,172.73,14.0,8.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Sherfane Rutherford 
+2019-100mb00000000140-a41b85f2449d11,10.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Varun Chakaravarthy 
+2019-100mb00000000141-e67c41d144a711,8.0,,not out,not out,57.0,25.0,10.0,40.00,2.50,4.0,6.0,91.23,2.50,228.00,14.0,11.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Andre Russell 
+2019-100mb00000000150-3a51ee2844a911,11.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Prasidh Krishna  (RP)
+2019-100mb00000000152-335aed3d44aa11,7.0,,not out,not out,19.0,6.0,1.0,16.67,6.00,1.0,2.0,84.21,2.00,316.67,6.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Rinku Singh 
+2019-100mb00000000156-a6b6f42c44aa11,2.0,Yudhvir Singh Charak,b Yudhvir Singh Charak,b Yudhvir Singh Charak,11.0,9.0,6.0,66.67,1.50,1.0,1.0,90.91,4.50,122.22,9.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Sunil Narine 
+2019-100mb00000000181-80151ce844b611,,,,,,,,,,,,,,,,,Jofra Archer,4.0,30.0,1.0,7.5,1.0,24.0,14.0,11.0,45.83,2.18,2.0,2.0,66.67,6.00,24.00,26.67,40.00,1851.0,1.0,18.0,Jofra Archer
+2019-100mb00000000182-b78f12ef44b611,2.0,Akash Singh,b Akash Singh,b Akash Singh,33.0,18.0,5.0,27.78,3.60,3.0,2.0,72.73,3.60,183.33,17.0,1.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Jos Buttler (wk)
+2019-100mb00000000189-ac8c327a44b711,,,,,,,,,,,,,,,,,Riyan Parag,3.0,21.0,1.0,7.0,6.0,18.0,16.0,3.0,16.67,6.00,1.0,0.0,19.05,18.00,18.00,19.05,0.00,1851.0,1.0,18.0,Riyan Parag
+2019-100mb00000000206-501d92f644bb11,5.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Moeen Ali 
+2019-100mb00000000218-42d9d6f544bf11,6.0,,not out,not out,4.0,4.0,0.0,0.00,,0.0,0.0,0.00,,100.00,2.0,2.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Rashid Khan 
+2020-100mb00000000377-c8cec37e2dec11,,,,,,,,,,,,,,,,,Wanindu Hasaranga,4.0,35.0,0.0,8.75,5.0,24.0,19.0,6.0,25.00,4.00,5.0,0.0,57.14,4.80,0,57.14,0.00,1851.0,1.0,18.0,Wanindu Hasaranga
+2020-100mb00000000523-53bc4c09638b11,,,,,,,,,,,,,,,,,Shahbaz Ahmed,4.0,41.0,1.0,10.25,5.0,24.0,21.0,7.0,29.17,3.43,2.0,2.0,48.78,6.00,24.00,19.51,29.27,1862.0,2.0,77.0,Shahbaz Ahmed
+2020-100mb00000000535-66ae8e79639911,,,,,,,,,,,,,,,,,Akash Singh,3.1,29.0,1.0,9.16,1.0,19.0,14.0,5.0,26.32,3.80,5.0,0.0,68.97,3.80,19.00,68.97,0.00,1862.0,2.0,77.0,Akash Singh (IP)
+2020-100mb00000000544-980117aa639c11,9.0,Ayush Badoni,b Ayush Badoni,b Ayush Badoni,1.0,2.0,1.0,50.00,2.00,0.0,0.0,0.00,,50.00,0.0,2.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Sai Kishore 
+2021-100mb00000000583-8f4c0c4491dd11,11.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Vaibhav Arora 
+2021-100mb00000000584-a3f48c1791dd11,6.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Venkatesh Iyer 
+2021-100mb00000000587-d15a3db891de11,,,,,,,,,,,,,,,,,Yudhvir Singh Charak,2.0,26.0,1.0,13.0,2.0,12.0,7.0,6.0,50.00,2.00,3.0,2.0,92.31,2.40,12.00,46.15,46.15,1851.0,1.0,18.0,Yudhvir Singh Charak
+2021-100mb00000000590-85eaa6f291e011,4.0,Avesh Khan,c (Sub) Ravi Bishnoi b Avesh Khan,c (Sub) Ravi Bishnoi b Avesh Khan,57.0,29.0,4.0,13.79,7.25,5.0,3.0,66.67,3.63,196.55,22.0,7.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Shahrukh Khan 
+2021-100mb00000000629-11c540100bd311,,,,,,,,,,,,,,,,,Maheesh Theekshana,4.0,41.0,1.0,10.25,3.0,24.0,15.0,9.0,37.50,2.67,1.0,4.0,68.29,4.80,24.00,9.76,58.54,1851.0,1.0,18.0,Maheesh Theekshana
+2021-100mb00000000641-324bd4322fe511,3.0,Maheesh Theekshana,c Shimron Hetmyer b Maheesh Theekshana,c Shimron Hetmyer b Maheesh Theekshana,35.0,25.0,8.0,32.00,3.13,4.0,1.0,62.86,5.00,140.00,15.0,10.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Rahmanullah Gurbaz (wk)
+20214a2b63d55d7711ec9c9202ea608,11.0,Jofra Archer,c (Sub) Ashok Sharma b Jofra Archer,c (Sub) Ashok Sharma b Jofra Archer,44.0,31.0,6.0,19.35,5.17,5.0,0.0,45.45,6.20,141.94,4.0,27.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Angkrish Raghuvanshi  (RP)
+2022-100mb00000000976-79aa33cca44611,11.0,William O Rourke,c Aiden Markram b William O Rourke,c Aiden Markram b William O Rourke,21.0,16.0,7.0,43.75,2.29,4.0,0.0,76.19,4.00,131.25,16.0,0.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Sai Sudharsan  (IP)
+2022-100mb00000000985-f5950061a44811,,,,,,,,,,,,,,,,,Ayush Badoni,1.0,4.0,2.0,4.0,6.0,6.0,4.0,2.0,33.33,3.00,0.0,0.0,0.00,0,3.00,0.00,0.00,1862.0,2.0,77.0,Ayush Badoni
+2022-100mb00000000988-ad5c752aa44a11,7.0,Shahbaz Ahmed,c William O Rourke b Shahbaz Ahmed,c William O Rourke b Shahbaz Ahmed,1.0,3.0,2.0,66.67,1.50,0.0,0.0,0.00,,33.33,0.0,3.0,,,,,,,,,,,,,,,,,,,1862.0,2.0,35.0,Mohd Arshad Khan 
+2022-100mb00000000991-d9fbad51a44b11,9.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Ramandeep Singh 
+2022-100mb00000001007-1363a306a45011,,,,,,,,,,,,,,,,,Akash Deep,4.0,49.0,0.0,12.25,2.0,24.0,19.0,8.0,33.33,3.00,5.0,3.0,77.55,3.00,0,40.82,36.73,1862.0,2.0,77.0,Akash Deep
+2022-100mb00000001013-30676520bcc011,4.0,,,,0.0,0.0,0.0,,,0.0,0.0,,,-,0.0,0.0,,,,,,,,,,,,,,,,,,,1851.0,1.0,16.0,Harshit Rana  (IP)
+2022-100mb00000001045-ff63138dd51a11,,,,,,,,,,,,,,,,,Akash Madhwal,3.0,50.0,0.0,16.67,4.0,18.0,17.0,4.0,22.22,4.50,4.0,4.0,80.00,2.25,0,32.00,48.00,1851.0,1.0,18.0,Akash Madhwal (RP)
+2024-100mb00000003398-bea9776874df11,,,,,,,,,,,,,,,,,William O Rourke,4.0,27.0,3.0,6.75,3.0,24.0,17.0,7.0,29.17,3.43,3.0,0.0,44.44,8.00,8.00,44.44,0.00,1862.0,2.0,77.0,William O Rourke
